@@ -1,0 +1,7 @@
+I'm stuck! 
+
+1. I can't save my workbook. The error directs me to the Data menu, but it's not immediately obvious where to go to enable data extracts.
+
+2. I'm confused at my data source. It shows the 311 data from 2015 listed twice. The first listing has an icon with two database cylinder symbols and an orange checkmark. The second listing shows a single database cylinder symbol and a blue checkmark.
+
+{% include whatishappening.png %}
