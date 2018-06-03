@@ -2,17 +2,43 @@
 Lorem ipsum
 
 
-  &nbsp;
+  &nbsp; &nbsp;
 
 This is parksdash-borough
 
-{% include 0-firstclass.html %}
+{% include parksdash-borough.html %}
 
 above is parksdash-borough
 
-  &nbsp;
+  &nbsp; &nbsp;
+  
+
+This is parksdash-nyc
+
+{% include parksdash-nyc.html %}
+
+above is parksdash-nyc
+
+  &nbsp; &nbsp;
+  
+  
+This is parksdash-pie
+
+{% include parksdash-pie.html %}
+
+above is parksdash-pie
+
+  &nbsp; &nbsp;
 
 
+This is parkschart-table
+
+{% include parkschart-table.html %}
+
+above is parkschart-table
+
+  &nbsp; &nbsp;
+  
 
 # Lorem ipsum
 
