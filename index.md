@@ -1,5 +1,9 @@
 #### Hello world  :/
 
-### [Blog Post 1](./blogpost1.md)
+### [Assignment 1: 311 Data](./assignment1.md)
 
 ### [I'm stuck!](./sos_180601.md)
+
+### [Blog Post 1: What's for Lunch?](./blogpost1.md)
+
+
