@@ -17,7 +17,7 @@ Explanations of the data and design decisions made are included in the discussio
 
 This table shows complaints received by 311 about various types of behavior in parks. Complaint types are listed at left, with the total number of complaints received about each in 2015 showninthecolumnatright. The numbers column is color coded as a heat map along a light-to-dark spectrum, with theleast common complaint category (Other Complaints) in the lightest color and the most common complaint category (Obstructing Public Use) in the darkest color.
 
-The “Other Complaints” categoryconsolidatesrelatively few complaints about removing plants or flowers, unauthorized climbing, unauthorized posting of signs, and prohibited use of newly seeded lawns. 
+The “Other Complaints” category consolidates the relatively few complaints about removing plants or flowers, unauthorized climbing, unauthorized posting of signs, and prohibited use of newly seeded lawns. 
   
   {% include parkschart-table.html %}
 
