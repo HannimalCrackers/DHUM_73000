@@ -39,6 +39,13 @@ Lorem ipsum
 
   &nbsp; &nbsp;
   
+  
+  You can see a live version of the messed up overview dashboard at the link below.
+
+  [Dashboard fail](./dashboardfails.md)
+
+  &nbsp; &nbsp;
+  
 
 # Lorem ipsum
 
