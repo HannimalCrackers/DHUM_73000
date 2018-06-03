@@ -1,7 +1,10 @@
 
-I made a dashboard with floating containers that looks great in Tableau Public, both on desktop and web, but embedded into this blog it looks terrible and everything is crashing together unless viewed in full screen mode. 
+# Dashboard Fails
 
-My current theories for what may be causing the issues are that this is maybe the result of using floating containers for the dashboard segments, or perhaps GitHub blog pages are not able to display elements this wide.
+#### NYC Parks Violations 311 Complaints Overview
+I made this dashboard with floating containers. It looks great in Tableau Public, both on desktop and web, but embedded into a blog it looks terrible and everything crashes together unless viewed in full screen mode. 
+
+Possible sources of dismay: floating containers, GitHub size constraints?
 
 {% include parksdash-fail.html %}
 
