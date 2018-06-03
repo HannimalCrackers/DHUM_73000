@@ -67,21 +67,24 @@ Visualizing the 311 data on parks violations complaints reveals that the Parks D
 
   &nbsp; &nbsp;
 
+#### Next steps
 
+Having written this assignment and placed my visuals, I now see it would be useful to include a simple bar chart that shows an overview of just the number of complaints by borough, before showing my current Visualization D chart with the greater level of detail. Showing overall proportions of complaints per borough first would provide context for interpreting the differences in complaint type and response type by borough shown in Visualization D. Alternately, it might make sense to eliminate Visualization D entirely and instead show only the new, simplified visualization of complaint type by borough.
 
-  This is the fail compare image
+Another next step is to work on my dashboard execution. The first dashboard I made for this project ended up not being usable. It looks great in Tableau Public, both on desktop and web, but once embedded into this blog it looks terrible. Everything is crashing together unless viewed in full screen mode.
 
   {% include parks-failcompare.html %}
-
-  &nbsp; &nbsp;
   
-  
-  You can see a live version of the messed up overview dashboard at the link below.
+You can see a live version of the messed up overview dashboard at the link below.
 
   [Link: Dashboard fail](./dashboardfails.md)
 
+
+My current theories on what may be causing the issues I’m encountering are that they may be the result of using floating containers for the dashboard segments,and/or perhaps GitHub blog pages are not able to display elements this wide.
+
+For this assignment, I ended up creating single-chart dashboards because I wanted to control legend placement, which I believe can only be done on dashboards, but I haven’t yet solved how to get a multi-chart dashboard to display well on the GitHub page. However, I would like to continue trying to solve this issue, so that I can show a multi-chart overview dashboard. I would like to improve my Tableau formatting abilities overall to be better able to achieve clearer, cleaner, and more compelling visualizations.
+
   &nbsp; &nbsp; &nbsp; &nbsp;
   
-
 
 < [There's no place like home](./index.md)
