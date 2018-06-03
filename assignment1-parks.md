@@ -25,7 +25,7 @@ The “Other Complaints” category consolidates the relatively few complaints a
   
 #### Visualization B: Complaints and Response for all NYC Bar Chart
 
-Visualization B is a bar chart showing a horizontal bar for each service request complaint type. The bar length is the total number of records, as shown along the x-axis, and each bar is segmented into colors representing the type of response to the complaint. Hovering over the colored sections in the chart reveals information on the service request complaint type, official response, and number of records in the data segment. Using a bar chart allows for an organized presentation and comparison of the categories, and segmenting the bars gives an extra layer of information.
+Visualization B is a bar chart showing a horizontal bar for each service request complaint type. The bar length is the total number of records, as shown along the x-axis, and each bar is segmented into colors representing the type of response to the complaint. Hovering over the colored sections in the chart reveals information on the service request complaint type, official response, and number of records in the data segment. Using a bar chart allows for an organized presentation and comparison of the categories, and segmenting the bars gives an extra layer of information. I have been unable to control legend placement the way I’d like.
 
   {% include parksdash-nyc.html %}
 
