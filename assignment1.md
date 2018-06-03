@@ -1,7 +1,7 @@
 
 Lorem ipsum
 
-{% include plot1.html %}
+{% include skateboard.html %}
 
 
 < [There's no place like home](./index.md)
