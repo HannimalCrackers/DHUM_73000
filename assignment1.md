@@ -3,13 +3,7 @@ Lorem ipsum
 
 
 
-  &nbsp;
 
-this is test
-
-{% include test.html %}
-
-above is test
 
   &nbsp;
 
