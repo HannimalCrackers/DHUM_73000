@@ -25,10 +25,15 @@ The “Other Complaints” categoryconsolidatesrelatively few complaints about r
 
   &nbsp; &nbsp;
   
+#### Visualization B: Complaints and Response for all NYC Bar Chart
 
-  This is parksdash-nyc
+Visualization B is a bar chart showing a horizontal bar for each service request complaint type. The bar length is the total number of records, as shown along the x-axis, and each bar is segmented into colors representing the type of response to the complaint. Hovering over the colored sections in the chart reveals information on the service request complaint type,official response, and number of records in the data segment.
 
   {% include parksdash-nyc.html %}
+
+This visualization reveals the existence of a very specific response for complaints about smoking. This response is used only and universally for complaints about smoking. The lack of response and enforcement variation in response to smoking demonstrates a deliberate, centralized decision on the part of the Department of Parks and Recreation (Parks Dept) about how to handle these complaints. According to the official response to complaints about smoking, the Parks Dept has determined that it has too limited of resources to enforce the regulation prohibiting it, and has taken steps to be completely consistent in thisenforcementdecision. This concerted effort at enforcement consistency is laudable, as quality of life violations are liable to be selectively enforced against minorities.
+
+The legendshowsan abbreviated version of the Parks Dept’s limited resources response. The full response text in the database reads“The Department of Parks and Recreation has limited resources to follow up on this complaint. Your complaint will help the City schedule patrols and target particular areas for enforcement.”
 
   &nbsp; &nbsp;
   
