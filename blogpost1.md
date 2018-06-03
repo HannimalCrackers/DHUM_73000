@@ -1,4 +1,4 @@
-This is a great post about what food we should eat in NYC.
+This is a great post about food we should eat in NYC.
 
 {% include plot1.html %}
 
