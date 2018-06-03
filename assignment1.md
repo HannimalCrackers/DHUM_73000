@@ -11,7 +11,6 @@ above is test
 
 This is test-taller
 
-{% include test-taller.html %}
 
 above is test-taller
 
