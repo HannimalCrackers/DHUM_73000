@@ -1,6 +1,6 @@
 #### Hello world &nbsp; &nbsp; :/
 
-### [Assignment 1: 311 Data](./assignment1.md)
+### [Assignment 1: 311 data](./assignment1.md)
 
 ### [Dashboard fails](./dashboardfails.md)
 
