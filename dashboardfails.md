@@ -8,7 +8,4 @@ My current theories for what may be causing the issues are that this is maybe th
 &nbsp; &nbsp;
 
 
-{% include skateboard.html %}
-
-
 < [There's no place like home](./index.md)
