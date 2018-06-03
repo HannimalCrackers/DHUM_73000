@@ -35,10 +35,17 @@ The legend shows an abbreviated version of the Parks Dept’s limited resources 
 
   &nbsp; &nbsp;
   
-  
-  This is parksdash-borough
+#### Visualization C: Complaints and Response by Borough Bar Chart
+
+This bar chart shows each complaint type broken out by number of service requests per borough, and each borough’s bar is sectioned by response type. Hovering over the colored sections in the chart reveals information on the service request complaint type, borough, official response, and number of records in the data segment.
+
+I chose to place the legend above the bar chart because it is easier to get familiarized with parsing the chart data when the key is close to the beginning of the chart.
 
   {% include parksdash-borough.html %}
+  
+This visualization shows that Manhattan has the most complaints in all categories, though by varying degrees. Manhattan has far more complaints than any other borough about obstructing public use and smoking, but is nearly even with the Bronx and Brooklyn in number of complaints about barbequing outside authorized areas, and nearly even with the Bronx and Queens in complaints about unauthorized vendors.
+
+This visualization does not reveal many significant differences in enforcement between boroughs. There were two summons issued as a result of complaints about barbequing in Brooklyn and one in the Bronx. No summons for barbecue complaints were issued in other boroughs. Two summons were issued for biking or rollerblading off-path complaints in Manhattan, with none in any other borough. Overall, enforcement looks proportionally fairly even across boroughs.
 
   &nbsp; &nbsp;
   
