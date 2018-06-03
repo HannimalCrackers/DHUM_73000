@@ -39,7 +39,7 @@ The legend shows an abbreviated version of the Parks Dept’s limited resources 
 
 This bar chart shows each complaint type broken out by number of service requests per borough, and each borough’s bar is sectioned by response type. Hovering over the colored sections in the chart reveals information on the service request complaint type, borough, official response, and number of records in the data segment.
 
-I chose to place the legend above the bar chart because it is easier to get familiarized with parsing the chart data when the key is close to the beginning of the chart.
+I chose to place the legend above the bar chart because it is easier to get familiarized with parsing the chart data when the key is close to the beginning of the chart. Again, however, I don't have an ideal level of control over placement and formatting.
 
   {% include parksdash-borough.html %}
   
