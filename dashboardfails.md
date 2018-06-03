@@ -1,5 +1,5 @@
 
-I made one dashboard with floating containers that looks great in Tableau Public, both on desktop and web, but it looks terrible and everything is crashing together when I embed it into this blog. Completely jacked.
+I made one dashboard with floating containers that looks great in Tableau Public, both on desktop and web, but once I embed it into this blog it looks terrible and everything is crashing together. 
 
 {% include parksdash1.html %}
 
@@ -25,7 +25,7 @@ Here's an example of what I didn't like, with the tab running along the top. The
 ——
 &nbsp;
 
-My workaround for this assignment ended up being to load each sheet to Tableau Public individually, which seems inefficient and takes up a lot of space because each sheet carries the whole workbook with it. But that was the only way I could figure out how to get the result I wanted. 
+My workaround for this assignment ended up being to load each sheet to Tableau Public individually, which seems inefficient and takes up a lot of the allotted server space on my Tableau profile because each sheet carries the whole workbook with it. But that was the only way I could figure out how to get the result I wanted. 
 
 
 < [There's no place like home](./index.md)
