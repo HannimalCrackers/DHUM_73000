@@ -15,7 +15,7 @@ Explanations of the data and design decisions made are included in the discussio
 
 #### Visualization A: Number of Complaints Table
 
-This table shows complaints received by 311 about various types of behavior in parks. Complaint types are listed at left, with the total number of complaints received about each in 2015 shown in the column at right. The numbers column is color coded as a heat map along a light-to-dark spectrum, with the least common complaint category (Other Complaints) in the lightest color and the most common complaint category (Obstructing Public Use) in the darkest color.
+This table shows complaints received by 311 about various types of behavior in parks. Complaint types are listed at left, with the total number of complaints received about each in 2015 shown in the column at right. The numbers column is color coded as a heat map along a light-to-dark spectrum, with the least common complaint category (Other Complaints) in the lightest color and the most common complaint category (Obstructing Public Use) in the darkest color. A table is sufficient for displaying this top-level information, while the color coding provides a quick reference for how close to the minimum or maximum any given value is.
 
 The “Other Complaints” category consolidates the relatively few complaints about removing plants or flowers, unauthorized climbing, unauthorized posting of signs, and prohibited use of newly seeded lawns. 
   
@@ -25,7 +25,7 @@ The “Other Complaints” category consolidates the relatively few complaints a
   
 #### Visualization B: Complaints and Response for all NYC Bar Chart
 
-Visualization B is a bar chart showing a horizontal bar for each service request complaint type. The bar length is the total number of records, as shown along the x-axis, and each bar is segmented into colors representing the type of response to the complaint. Hovering over the colored sections in the chart reveals information on the service request complaint type, official response, and number of records in the data segment.
+Visualization B is a bar chart showing a horizontal bar for each service request complaint type. The bar length is the total number of records, as shown along the x-axis, and each bar is segmented into colors representing the type of response to the complaint. Hovering over the colored sections in the chart reveals information on the service request complaint type, official response, and number of records in the data segment. Using a bar chart allows for an organized presentation and comparison of the categories, and segmenting the bars gives an extra layer of information.
 
   {% include parksdash-nyc.html %}
 
@@ -67,7 +67,7 @@ Visualizing the 311 data on parks violations complaints reveals that the Parks D
 
   &nbsp; &nbsp;
 
-#### Next steps
+#### Next Steps
 
 Having written this assignment and placed my visuals, I now see it would be useful to include a simple bar chart that shows an overview of just the number of complaints by borough, before showing my current Visualization D chart with the greater level of detail. Showing overall proportions of complaints per borough first would provide context for interpreting the differences in complaint type and response type by borough shown in Visualization D. Alternately, it might make sense to eliminate Visualization D entirely and instead show only the new, simplified visualization of complaint type by borough.
 
