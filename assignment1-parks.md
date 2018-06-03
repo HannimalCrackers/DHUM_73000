@@ -3,41 +3,36 @@ Lorem ipsum
 
 
   &nbsp; &nbsp;
+  
+  This is parkschart-table
 
-This is parksdash-borough
-
-{% include parksdash-borough.html %}
-
-above is parksdash-borough
+  {% include parkschart-table.html %}
 
   &nbsp; &nbsp;
   
 
-This is parksdash-nyc
+  This is parksdash-borough
 
-{% include parksdash-nyc.html %}
+  {% include parksdash-borough.html %}
 
-above is parksdash-nyc
+  &nbsp; &nbsp;
+  
+
+  This is parksdash-nyc
+
+  {% include parksdash-nyc.html %}
 
   &nbsp; &nbsp;
   
   
-This is parksdash-pie
+  This is parksdash-pie
 
-{% include parksdash-pie.html %}
-
-above is parksdash-pie
+  {% include parksdash-pie.html %}
 
   &nbsp; &nbsp;
 
 
-This is parkschart-table
 
-{% include parkschart-table.html %}
-
-above is parkschart-table
-
-  &nbsp; &nbsp;
   
 
 # Lorem ipsum
@@ -48,5 +43,6 @@ above is parkschart-table
 
 #### Lorem ipsum
 
+&nbsp;
 
 < [There's no place like home](./index.md)
