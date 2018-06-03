@@ -4,7 +4,7 @@ I made one dashboard with floating containers that looks great in Tableau Public
 {% include parksdash1.html %}
 
 
-I made a second dashboard, this one with fixed containers. It looks somewhat better, but there's not enough space on the blog page causing everything to require awkward scrolls. 
+I made a second dashboard, this one with fixed containers. It looks somewhat better, but there's not enough space on the blog page which causes everything to require awkward scrolls. 
 
 {% include parksdash2.html %}
 
@@ -19,4 +19,4 @@ Here's an example of what I didn't like, with the tab running along the top.
 My workaround for this assignment ended up being to load each sheet to Tableau Public individually, which seems inefficient and takes up a lot of space because each sheet carries the whole workbook with it. But that was the only way I could figure out how to get the result I wanted. 
 
 
-[There's no place like home](./index.md)
+< [There's no place like home](./index.md)
