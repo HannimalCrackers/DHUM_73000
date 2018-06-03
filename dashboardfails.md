@@ -3,7 +3,7 @@ I made one dashboard with floating containers that looks great in Tableau Public
 
 My current theories for what may be causing the issues are that this is maybe the result of using floating containers for the dashboard segments, or perhaps GitHub blog pages are not able to display elements this wide.
 
-{% include parksdashfail.html %}
+{% include parksdash-fail.html %}
 
 &nbsp; &nbsp;
 
