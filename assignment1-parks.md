@@ -33,6 +33,11 @@ Lorem ipsum
 
 
 
+  This is the fail compare image
+
+  {% include parks-failcompare.html %}
+
+  &nbsp; &nbsp;
   
 
 # Lorem ipsum
