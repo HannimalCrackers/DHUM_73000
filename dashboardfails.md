@@ -15,7 +15,7 @@ I made a second dashboard, this one with fixed containers. It looks somewhat bet
 
 I also tried embedding individual sheets from the same uploaded workbook, but I didn't like the tab running along the top. I want only the individual chart to show, without tabs available to toggle between charts, so that I can situate the charts in a narrative flow. 
 
-Here's an example of what I didn't like, with the tab running along the top.
+Here's an example of what I didn't like, with the tab running along the top. There's also a massive gap underneath the chart.
 
 {% include parkschart-tabfail.html %}
 
