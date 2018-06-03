@@ -1,12 +1,7 @@
 
-Lorem ipsum  :)
+Lorem ipsum
 
 
-This is plot1
-
-{% include plot1.html %}
-
-above is plot1
 
   &nbsp;
 
