@@ -1,5 +1,5 @@
 
-I made one dashboard with floating containers that looks great in Tableau Public, both on desktop and web, but once I embed it into this blog it looks terrible and everything is crashing together. 
+I made one dashboard with floating containers that looks great in Tableau Public, both on desktop and web, but once I embed it into this blog it looks terrible and everything is crashing together unless viewed in full screen mode. 
 
 {% include parksdash1.html %}
 
