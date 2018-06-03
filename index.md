@@ -6,6 +6,6 @@
 
 ### [I'm stuck!](./sos_180601.md)
 
-### [Blog Post 1: What's for Lunch?](./blogpost1.md)
+### [Blog Post 1: what's for lunch?](./blogpost1.md)
 
 
