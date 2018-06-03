@@ -1,19 +1,36 @@
 
 Lorem ipsum
 
+
+This is plot1
+
+{% include plot1.html %}
+
+above is plot1
+
+  &nbsp;
+
 this is test
 
 {% include test.html %}
 
 above is test
 
-&nbsp;
+  &nbsp;
 
 This is test-taller
 
 {% include test-taller.html %}
 
 above is test-taller
+
+  &nbsp;
+
+This is plot1
+
+{% include plot1.html %}
+
+above is plot1
 
 # Lorem ipsum
 
