@@ -42,7 +42,7 @@ Lorem ipsum
   
   You can see a live version of the messed up overview dashboard at the link below.
 
-  [Dashboard fail](./dashboardfails.md)
+  [Link: Dashboard fail](./dashboardfails.md)
 
   &nbsp; &nbsp;
   
