@@ -51,7 +51,7 @@ This visualization does not reveal many significant differences in enforcement b
     
 #### Visualization D: Complaint Type Proportions Pie Chart
 
-This pie chart is the final visualization in this series. It represents the same data as Visualization A, the numbers table that was the first visualization in the series. Hovering over wedge sections reveals the number of complaints in each segment.Showing the numbers data in this simple proportional chart provides a quick visual reference and focus for a discussion tying together findings from the previous visualizations.
+This pie chart is the final visualization in this series. It represents the same data as Visualization A, the numbers table that was the first visualization in the series. Hovering over wedge sections reveals the number of complaints in each segment. Showing the numbers data in this simple proportional chart provides a quick visual reference and focus for a discussion tying together findings from the previous visualizations.
 
   {% include parksdash-pie.html %}
 
