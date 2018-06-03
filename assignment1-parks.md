@@ -15,7 +15,7 @@ Explanations of the data and design decisions made are included in the discussio
 
 #### Visualization A: Number of Complaints Table
 
-This table shows complaints received by 311 about various types of behavior in parks. Complaint types are listed at left, with the total number of complaints received about each in 2015 showninthecolumnatright. The numbers column is color coded as a heat map along a light-to-dark spectrum, with theleast common complaint category (Other Complaints) in the lightest color and the most common complaint category (Obstructing Public Use) in the darkest color.
+This table shows complaints received by 311 about various types of behavior in parks. Complaint types are listed at left, with the total number of complaints received about each in 2015 shown in the column at right. The numbers column is color coded as a heat map along a light-to-dark spectrum, with the least common complaint category (Other Complaints) in the lightest color and the most common complaint category (Obstructing Public Use) in the darkest color.
 
 The “Other Complaints” category consolidates the relatively few complaints about removing plants or flowers, unauthorized climbing, unauthorized posting of signs, and prohibited use of newly seeded lawns. 
   
@@ -25,13 +25,13 @@ The “Other Complaints” category consolidates the relatively few complaints a
   
 #### Visualization B: Complaints and Response for all NYC Bar Chart
 
-Visualization B is a bar chart showing a horizontal bar for each service request complaint type. The bar length is the total number of records, as shown along the x-axis, and each bar is segmented into colors representing the type of response to the complaint. Hovering over the colored sections in the chart reveals information on the service request complaint type,official response, and number of records in the data segment.
+Visualization B is a bar chart showing a horizontal bar for each service request complaint type. The bar length is the total number of records, as shown along the x-axis, and each bar is segmented into colors representing the type of response to the complaint. Hovering over the colored sections in the chart reveals information on the service request complaint type, official response, and number of records in the data segment.
 
   {% include parksdash-nyc.html %}
 
-This visualization reveals the existence of a very specific response for complaints about smoking. This response is used only and universally for complaints about smoking. The lack of response and enforcement variation in response to smoking demonstrates a deliberate, centralized decision on the part of the Parks Dept about how to handle these complaints. According to the official response to complaints about smoking, the Parks Dept has determined that it has too limited of resources to enforce the regulation prohibiting it, and has taken steps to be completely consistent in thisenforcementdecision. This concerted effort at enforcement consistency is laudable, as quality of life violations are sometimes liable to be selectively enforced against minorities.
+This visualization reveals the existence of a very specific response for complaints about smoking. This response is used only and universally for complaints about smoking. The lack of response and enforcement variation in response to smoking demonstrates a deliberate, centralized decision on the part of the Parks Dept about how to handle these complaints. According to the official response to complaints about smoking, the Parks Dept has determined that it has too limited of resources to enforce the regulation prohibiting it, and has taken steps to be completely consistent in this enforcement decision. This concerted effort at enforcement consistency is laudable, as quality of life violations are sometimes liable to be selectively enforced against minorities.
 
-The legendshowsan abbreviated version of the Parks Dept’s limited resources response. The full response text in the database reads“The Department of Parks and Recreation has limited resources to follow up on this complaint. Your complaint will help the City schedule patrols and target particular areas for enforcement.”
+The legend shows an abbreviated version of the Parks Dept’s limited resources response. The full response text in the database reads “The Department of Parks and Recreation has limited resources to follow up on this complaint. Your complaint will help the City schedule patrols and target particular areas for enforcement.”
 
   &nbsp; &nbsp;
   
