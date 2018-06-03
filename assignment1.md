@@ -6,6 +6,8 @@ Lorem ipsum
 
 &nbsp;
 
+{% include test-taller.html %}
+
 
 # Lorem ipsum
 
