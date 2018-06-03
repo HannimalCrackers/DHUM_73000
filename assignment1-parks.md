@@ -11,16 +11,16 @@ Lorem ipsum
   &nbsp; &nbsp;
   
 
-  This is parksdash-borough
-
-  {% include parksdash-borough.html %}
-
-  &nbsp; &nbsp;
-  
-
   This is parksdash-nyc
 
   {% include parksdash-nyc.html %}
+
+  &nbsp; &nbsp;
+  
+  
+  This is parksdash-borough
+
+  {% include parksdash-borough.html %}
 
   &nbsp; &nbsp;
   
