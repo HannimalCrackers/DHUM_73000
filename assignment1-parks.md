@@ -69,7 +69,7 @@ Visualizing the 311 data on parks violations complaints reveals that the Parks D
 
 #### Next Steps
 
-Having written this assignment and placed my visuals, I now see it would be useful to include a simple bar chart that shows an overview of just the number of complaints by borough, before showing my current Visualization D chart with the greater level of detail. Showing overall proportions of complaints per borough first would provide context for interpreting the differences in complaint type and response type by borough shown in Visualization D. Alternately, it might make sense to eliminate Visualization D entirely and instead show only the new, simplified visualization of complaint type by borough.
+Having written this assignment and placed my visuals, I now see it would be useful to include a simple bar chart that shows an overview of just the number of complaints by borough, before showing my current Visualization C borough chart with the greater level of detail. Showing overall proportions of complaints per borough first would provide context for interpreting the differences in complaint type and response type by borough shown in Visualization C. Actually, it might make sense to eliminate Visualization C entirely and instead show only a simplified visualization of complaint type by borough.
 
 Another next step is to work on my dashboard execution. The first dashboard I made for this project ended up not being usable. It looks great in Tableau Public, both on desktop and web, but once embedded into this blog it looks terrible. Everything is crashing together unless viewed in full screen mode.
 
