@@ -48,11 +48,22 @@ This visualization shows that Manhattan has the most complaints in all categorie
 This visualization does not reveal many significant differences in enforcement between boroughs. There were two summons issued as a result of complaints about barbequing in Brooklyn and one in the Bronx. No summons for barbecue complaints were issued in other boroughs. Two summons were issued for biking or rollerblading off-path complaints in Manhattan, with none in any other borough. Overall, enforcement looks proportionally fairly even across boroughs.
 
   &nbsp; &nbsp;
-  
-  
-  This is parksdash-pie
+    
+#### Visualization D: Complaint Type Proportions Pie Chart
+
+This pie chart is the final visualization in this series. It represents the same data as Visualization A, the numbers table that was the first visualization in the series. Hovering over wedge sections reveals the number of complaints in each segment.Showing the numbers data in this simple proportional chart provides a quick visual reference and focus for a discussion tying together findings from the previous visualizations.
 
   {% include parksdash-pie.html %}
+
+We see quickly from this chart that obstructing public access is the most common area of public complaint, comprising 33%, or one in three, of all complaints. It was a significant problem in every borough, as shown in Visualization C. This is also the category, referring back to Visualization B, in which the Parks Dept took the largest number of actions to remedy or correct the situation, up to and including issuing a summons. This is inline with the Parks Dept mission to provide spaces available for public use.
+
+Unlicensed vendors are the next largest category, making up 20%, or one in five, of all complaints. This is also the only other category in which a large number of summons were written. Again, the Parks Dept enforcement priorities are in line with the public’s priorities.
+
+Barbequing outside of authorized areas, the third largest category (17%), shows a different enforcement profile. In over half of the cases the Parks Dept did not take action, usually due to the reason, “resources allocated to other critical services at this time.” This was the most common use of the resources allocated elsewhere response.
+
+The last category that occurred with a frequency above 10% is complaints about smoking. As discussed earlier, smoking complaints have their own category of official response that cite limited resources, and Parks Dept resources are not used to respond to complaints about smoking in any park.
+
+Visualizing the 311 data on parks violations complaints reveals that the Parks Dept does allocate resources in response to the two most common public complaints, but that barbequing and smoking, despite being the third and fourth most common complaints, are not enforcement priorities.
 
   &nbsp; &nbsp;
 
