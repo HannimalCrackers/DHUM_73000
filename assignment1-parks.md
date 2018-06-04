@@ -87,7 +87,7 @@ For this assignment, I ended up creating single-chart dashboards because I wante
   &nbsp;
   &nbsp;
   - - - - - - 
- *post-assignment update: I had a multi-chart dashboard success! [Link: Dashboard success](./dashboardsuccess.md)
+ *post-assignment update: different topic, but I had a multi-chart dashboard success! [Link: Dashboard success](./dashboardsuccess.md)
 
   &nbsp; &nbsp; &nbsp; &nbsp;
   
