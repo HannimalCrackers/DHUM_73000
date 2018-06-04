@@ -10,14 +10,14 @@ Possible sources of dismay: floating containers? GitHub size constraints?
 
 {% include parksdash-fail.html %}
 
-&nbsp; &nbsp;
-
-#### NYC Bike/Roller/Skate Chronic Complaints
-Let's see how this looks as an embedded dashboard.
-
 &nbsp; 
 
-{% include skateboard.html %}
+This is the goal:
+
+  {% include parks-failcompare.html %}
+
+&nbsp;
+&nbsp;
 
 
 
