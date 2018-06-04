@@ -82,7 +82,11 @@ You can see a live version of the messed up overview dashboard at the link below
 
 My current theories on what may be causing the issues I’m encountering are that they may be the result of using floating containers for the dashboard segments,and/or perhaps GitHub blog pages are not able to display elements this wide.
 
-For this assignment, I ended up creating single-chart dashboards because I wanted to control legend placement, which I believe can only be done on dashboards, but I haven’t yet solved how to get a multi-chart dashboard to display well on the GitHub page. However, I would like to continue trying to solve this issue, so that I can show a multi-chart overview dashboard. I would like to improve my Tableau formatting abilities overall to be better able to achieve clearer, cleaner, and more compelling visualizations.
+For this assignment, I ended up creating single-chart dashboards because I wanted to control legend placement, which I believe can only be done on dashboards, but I haven’t yet solved how to get a multi-chart dashboard to display well on the GitHub page.* However, I would like to continue trying to solve this issue, so that I can show a multi-chart overview dashboard. I would like to improve my Tableau formatting abilities overall to be better able to achieve clearer, cleaner, and more compelling visualizations.
+
+  &nbsp;
+  &nbsp;
+ *post-assignment update: I had a multi-chart dashboard success! [Link: Dashboard success](./dashboardsuccess.md)
 
   &nbsp; &nbsp; &nbsp; &nbsp;
   
