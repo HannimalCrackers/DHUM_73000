@@ -1,5 +1,7 @@
 #### Hello world &nbsp; &nbsp; :/
 
+### [Dashboard success](./dashboardsuccesses.md)
+
 ### [Assignment 1: 311 data visualizations](./assignment1-parks.md)
 
 ### [Dashboard fail](./dashboardfails.md)
