@@ -1,7 +1,7 @@
 
 # Dashboard Success
 
-Visualizations in these dashboards were generated from a dataset that contains all New York City 311 Service Requests made in the year 2015.
+Visualizations were generated from a dataset that contains all New York City 311 Service Requests made in the year 2015.
 
 &nbsp;
 &nbsp;
