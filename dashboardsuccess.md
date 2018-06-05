@@ -1,7 +1,7 @@
 
 # Dashboard Success
 
-Exploring the dataset of all New York City 311 Service Requests from 2015 through data visualization.
+Exploring the 2015 dataset of all New York City 311 Service Requests through data visualization.
 
 &nbsp;
 &nbsp;
