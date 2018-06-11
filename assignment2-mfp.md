@@ -40,7 +40,7 @@ These charts make it easy to see that during this time period I was not more lik
   &nbsp; &nbsp;
   
   
-  #### Visualization B: Examination of Protein Intake
+#### Visualization B: Examination of Protein Intake
 
 Having not found the hypothesized correlation between sugar and total calories, I decided to explore whether there was a correlation with protein or fat intake instead.
 
@@ -53,7 +53,7 @@ These charts indicate that proportionally higher protein intake may be correlate
   &nbsp; &nbsp;
   
   
-  #### Visualization C: Examination of Fat Intake
+#### Visualization C: Examination of Fat Intake
   
 Last, I looked at fat calories. Fat calories are shown as a red line chart against total calories at right. There is no indication that eating relatively higher amounts of fat in a day correlates with eating more total calories the following day.
   
@@ -62,7 +62,7 @@ Last, I looked at fat calories. Fat calories are shown as a red line chart again
   &nbsp; &nbsp;
     
  
-  #### Next steps
+#### Next steps
   
 Further analysis of whether proportionally higher protein intake is correlated with steady periods of lower total calorie eating is warranted. First I would analyze a longer time period of my own data, then, if the correlation hold and withstands statistical scrutiny, looking at a wider dataset from a larger population.
 
