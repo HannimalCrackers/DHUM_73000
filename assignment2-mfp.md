@@ -9,6 +9,24 @@ Lorem ipsum
   
   
   
-    {% include parkschart-table.html %}
+    {% include mfpdash-sugar.html %}
+
+  &nbsp; &nbsp;
+  
+  
+  
+      {% include mfpdash-protein.html %}
+
+  &nbsp; &nbsp;
+  
+  
+  
+      {% include mfpdash-fat.html %}
+
+  &nbsp; &nbsp;
+
+  
+  
+      {% include mfpdash-fat.html %}
 
   &nbsp; &nbsp;
