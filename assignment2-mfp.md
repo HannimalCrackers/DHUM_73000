@@ -20,11 +20,13 @@ I decided to completely exclude the days that I didn’t have complete nutrition
 
 Last, I needed to select a date range to analyze. My first day using MFP was October 9, 2017 but I didn’t capture everything I ate that day. So I decided to start my analysis on October 10, 2017 and look at all available information through the end of that year.
 
-
+&nbsp;
 
 #### Visualization A: Examination of Sugar Intake
 
-  &nbsp; &nbsp;
+  Lorem ipsum valar dolum
+  
+  &nbsp;
   
   {% include mfpdash-sugar.html %}
   
