@@ -25,9 +25,7 @@ Last, I needed to select a date range to analyze. My first day using MFP was Oct
 #### Visualization A: Examination of Sugar Intake
 
   Lorem ipsum valar dolum
-  
-  &nbsp;
-  
+    
   {% include mfpdash-sugar.html %}
   
   &nbsp; &nbsp;
