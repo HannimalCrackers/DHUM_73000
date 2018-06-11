@@ -60,15 +60,7 @@ Last, I looked at fat calories. Fat calories are shown as a red line chart again
   {% include mfpdash-fat.html %}
   
   &nbsp; &nbsp;
-  
-
-  #### Tableau Skills Exercised or Learned in this Assignment
-  
-  Lorem ipsum
-  
-  &nbsp; &nbsp;
-  
-  
+    
  
   #### Next steps
   
@@ -79,6 +71,10 @@ I would also like to redo the sugar analysis by instead using total carbohydrate
 Last, I would like to explore the relationship between alcohol consumption and calorie consumption. I started down that path and it seems that on days when I drink I consume more calories, but I’m not confident in my Tableau calculations so I help off from including anything about that in this assignment. (It also would have diminished the focus of this blog post).
 
 This quantified self research was an excellent opportunity to exercise both Tableau skills and introspection. I look forward to quantifying more of myself and digging into that data.
+
+This quantified self research was an excellent opportunity to exercise Tableau skills. In the course of completing this assignment I cleaned data, created a supplemental data source and joined it to my primary source, created a date range calculation filter with visible dynamic date selectors, created calculations to convert grams to calories, edited titles to be more descriptive, employed dual-axes and both synchronized and unsynchronized axes, and created aliases for certain dimensions. My favorite learning was a trick for getting the line chart nodes to line up with the center of the bar chart bars, instead of the left edge.
+
+This was also an opportunity to exercise introspection and examine my behaviors versus outcomes. I look forward to quantifying more of myself and digging into that data.
 
 
   &nbsp; &nbsp; &nbsp; &nbsp;
