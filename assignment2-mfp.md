@@ -25,12 +25,18 @@ Last, I needed to select a date range to analyze. My first completely tracked da
 
 #### Visualization A: Examination of Sugar Intake
 
-  Lorem ipsum valar dolum
+Below is a dashboard showing two combination bar and line charts. The pale orange bars show total calories consumed. There is one bar per day. Gaps indicate dates excluded for missing nutritional information. Sugar calories are depicted with a dark blue line chart running over top of the bars. 
+
+The top chart shows total calories and sugar calories mapped to the same scale (both left and right y-axes are identical). This is useful for showing the proportion of sugar calories to total calories. The bottom chart shows the same total and sugar calorie information, but in this chart the y-axes are unsynchronized. This chart is included because having the sugar data proportionally exaggerated makes it easier to pick out trends.
+
+Specific date and calorie counts are available by hovering over the bars or the line chart nodes. The date range is set to the dates I’ve chosen to analyze, but readers are welcome to browse my full range of data. To that end I included dynamic date range filters.
+
+All charts in this blog are colorblind-friendly due to the high contrast in colors used. All charts include a color key for reference. 
+These charts make it easy to see that during this time period I was not more likely to consume more calories the day after eating relatively high amounts of sugar.
     
   {% include mfpdash-sugar.html %}
   
   &nbsp; &nbsp;
-  
   
   
   #### Visualization B: Examination of Protein Intake
