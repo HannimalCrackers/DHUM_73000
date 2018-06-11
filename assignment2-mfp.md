@@ -42,12 +42,15 @@ These charts make it easy to see that during this time period I was not more lik
   
   #### Visualization B: Examination of Protein Intake
 
-  &nbsp; &nbsp;
-  
+Having not found the hypothesized correlation between sugar and total calories, I decided to explore whether there was a correlation with protein or fat intake instead.
+
+Here we see protein intake in calories shown as a green line chart against the total calories. The dashboard otherwise follows the same format as the sugar calories dashboard (as will the fat calories dashboard). In all charts the total calorie information shown by the orange bars is identical. 
+
+These charts indicate that proportionally higher protein intake may be correlated with steadier periods of lower total calorie intake. Further analysis over a longer timespan would be a next step in exploring this possible correlation.
+
   {% include mfpdash-protein.html %}
 
   &nbsp; &nbsp;
-  
   
   
   #### Visualization C: Examination of Fat Intake
