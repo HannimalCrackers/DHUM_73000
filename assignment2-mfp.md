@@ -7,10 +7,9 @@ Lorem ipsum
 
   &nbsp; &nbsp;
   
+  {% include mfpdash-sugar.html %}
   
   
-    {% include mfpdash-sugar.html %}
-
   &nbsp; &nbsp;
   
   
