@@ -1,5 +1,7 @@
 #### Hello world &nbsp; &nbsp; :/
 
+### [Assignment 2: quantified self](./assignment2-mfp.md)
+
 ### [Dashboard success](./dashboardsuccess.md)
 
 ### [Assignment 1: 311 data visualizations](./assignment1-parks.md)
