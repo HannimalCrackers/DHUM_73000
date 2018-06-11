@@ -74,7 +74,8 @@ This quantified self research was an excellent opportunity to exercise both Tabl
 
 This quantified self research was an excellent opportunity to exercise Tableau skills. In the course of completing this assignment I cleaned data, created a supplemental data source and joined it to my primary source, created a date range calculation filter with visible dynamic date selectors, created calculations to convert grams to calories, edited titles to be more descriptive, employed dual-axes and both synchronized and unsynchronized axes, and created aliases for certain dimensions. My favorite learning was a trick for getting the line chart nodes to line up with the center of the bar chart bars, instead of the left edge.
 
-This was also an opportunity to exercise introspection and examine my behaviors versus outcomes. I look forward to quantifying more of myself and digging into that data.
+This was also an excellent opportunity to exercise introspection and examine my behaviors versus outcomes. I look forward to quantifying more of myself and digging into that data too.
+
 
 
   &nbsp; &nbsp; &nbsp; &nbsp;
