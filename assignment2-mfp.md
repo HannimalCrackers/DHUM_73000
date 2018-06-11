@@ -55,13 +55,31 @@ These charts indicate that proportionally higher protein intake may be correlate
   
   #### Visualization C: Examination of Fat Intake
   
-  &nbsp; &nbsp; 
+Last, I looked at fat calories. Fat calories are shown as a red line chart against total calories at right. There is no indication that eating relatively higher amounts of fat in a day correlates with eating more total calories the following day.
   
   {% include mfpdash-fat.html %}
   
   &nbsp; &nbsp;
-
   
+
+  #### Tableau Skills Exercised or Learned in this Assignment
+  
+  Lorem ipsum
+  
+  &nbsp; &nbsp;
+  
+  
+ 
+  #### Next steps
+  
+Further analysis of whether proportionally higher protein intake is correlated with steady periods of lower total calorie eating is warranted. First I would analyze a longer time period of my own data, then, if the correlation hold and withstands statistical scrutiny, looking at a wider dataset from a larger population.
+
+I would also like to redo the sugar analysis by instead using total carbohydrate consumption so that I can then analyze whether carbohydrate/protein/fat macro ratios have an effect on next day eating.
+
+Last, I would like to explore the relationship between alcohol consumption and calorie consumption. I started down that path and it seems that on days when I drink I consume more calories, but I’m not confident in my Tableau calculations so I help off from including anything about that in this assignment. (It also would have diminished the focus of this blog post).
+
+This quantified self research was an excellent opportunity to exercise both Tableau skills and introspection. I look forward to quantifying more of myself and digging into that data.
+
 
   &nbsp; &nbsp; &nbsp; &nbsp;
   
