@@ -1,27 +1,37 @@
-# Lorem ipsum
+# Macronutrient Impacts on Overall Calorie Consumption
 
-#### Lorem ipsum
+#### Introduction
 
-Lorem ipsum
+Lorem ipsum intro copy
 
+
+
+#### Visualization A: Examination of Sugar Intake
 
   &nbsp; &nbsp;
   
   {% include mfpdash-sugar.html %}
   
-  
   &nbsp; &nbsp;
   
   
   
-      {% include mfpdash-protein.html %}
+  #### Visualization B: Examination of Protein Intake
+
+  &nbsp; &nbsp;
+  
+  {% include mfpdash-protein.html %}
 
   &nbsp; &nbsp;
   
   
   
-      {% include mfpdash-fat.html %}
-
+  #### Visualization C: Examination of Fat Intake
+  
+  &nbsp; &nbsp; 
+  
+  {% include mfpdash-fat.html %}
+  
   &nbsp; &nbsp;
 
   
