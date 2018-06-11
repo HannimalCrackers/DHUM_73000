@@ -8,6 +8,10 @@ Upfront, I’ll say I was wrong. My data showed no positive correlation between 
 
 This research was done primarily for myself, as I was curious about my own cravings, but those looking to see what kind of exploration may be done with downloaded personal MFP data (or looking for some very tenuous evidence that indulging now and then will not instantly doom their diet) may also be interested in reading on. I explored this question with my downloaded personal data from MFP, utilizing fields that captured date along with calories consumed, sugar consumed – which was provided in grams, and protein and fat consumed – both also provided in grams.
 
+&nbsp;
+
+#### Data Preparation
+
 In order to better compare sugar, protein and fat intake to overall caloric intake, I created calculated fields in Tableau to convert them from grams to calories.
 
 Then I had a look at my data. I had not always been careful about making sure nutritional breakdowns were included for the items I’d logged. I went back to the app and went through day by day updating items where I could, and making note of when the information simply wasn’t available (usually due to eating out at a restaurant that did not provide such information).
