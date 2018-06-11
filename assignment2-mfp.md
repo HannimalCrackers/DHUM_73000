@@ -18,7 +18,8 @@ Then I had a look at my data. I had not always been careful about making sure nu
 
 I decided to completely exclude the days that I didn’t have complete nutrition details. To accomplish this I set up a separate spreadsheet with a column titled Date and second column titled Nutrition Unknown. I filled this in with the dates for which I lacked complete information, and typed an X into the Nutrition Unknown column. I married this information to the MFP data by performing a left join on the Date field.
 
-Last, I needed to select a date range to analyze. My first day using MFP was October 9, 2017 but I didn’t capture everything I ate that day. So I decided to start my analysis on October 10, 2017 and look at all available information through the end of that year.
+Last, I needed to select a date range to analyze. My first completely tracked day using MFP was October 9, 2017. I decided to start my analysis on that date and look at all available information through the end of that year.
+
 
 &nbsp;
 
