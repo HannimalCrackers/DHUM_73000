@@ -20,6 +20,8 @@
 * **I used commands I didn't understand in Terminal to batch rename my images, even though it was scary.**
     * [StackExchange source](https://apple.stackexchange.com/questions/236213/renaming-files-names-in-bulk-any-smarter-solution)
     
+&nbsp;
+* In Google Cloud Vision API. Is this Python? .py
     
     
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -55,7 +57,7 @@
 #### Other notes
 
 &nbsp;
-* I imagine I'll use this category
+* Created a Google Cloud account and uploaded my image set into a bucket named dhum73000-imageset-180615
 
 
   &nbsp; &nbsp; &nbsp; &nbsp;
