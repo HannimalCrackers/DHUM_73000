@@ -1,6 +1,6 @@
 # Things I'm learning working on this final project
 
-#### List list list list list list list list list
+#### Listing
 
 * How to make a bulleted list in markdown with an asterisk then a space
     * How to make nested lists in markdown
