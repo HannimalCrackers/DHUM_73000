@@ -2,15 +2,15 @@
 
 #### Introduction
 
-* How to make a bulleted list in markdown
+* How to make a bulleted list in markdown with an asterisk then a space
+    * How to make nested lists in markdown
+    * That bulleted lists work with either an asterisk or a hyphen
 
-    * That bulleted lists work with both the asterisk and the hyphen
-
-- What about with hyphens
-
-- hyphen test with space
-
--- does two hyphens do anything?
+* That my GitHub directory was already getting messy
+    * Renamed all blogposts with 00#_ prefix to order and sort to top
+    
+* How to custom split columns in the Data Source pane in Tableau
+    * Photo taken info came in as a mashed together string field / separated into identifiable date and time
 
 
 
