@@ -20,11 +20,7 @@
 * **I used commands I didn't understand in Terminal to batch rename my images, even though it was scary.**
     * [StackExchange source](https://apple.stackexchange.com/questions/236213/renaming-files-names-in-bulk-any-smarter-solution)
     
-&nbsp;
-* Google Cloud Vision API setup. Created sample app in tutorial. Downloading Google Cloud SDK. Need Python 2.7.0 first. Downloading that. Oh ok, should be 2.7.13. Downloading that.
 
-&nbsp;
-* Downloaded Google Cloud SDK. Now I'm back in terminal. Does this all happen in Terminal? It's 1:00am on technically-Saturday and my life just got complicated. Calling it a night soon.
     
     
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -61,6 +57,16 @@
 
 &nbsp;
 * Created a Google Cloud account and uploaded my image set into a bucket named dhum73000-imageset-180615
+
+&nbsp;
+* Google Cloud Vision API setup. Created sample app in tutorial in Google Cloud Shell. Installed Python 2.7.13. Downloaded Brackets and Sublime Text.
+
+&nbsp;
+* Downloaded Google Cloud SDK. Now I'm back in terminal. Does this all happen in Terminal? It's 1:00am on technically-Saturday and my life just got complicated. Calling it a night soon.
+
+&nbsp;
+* 6/16 at 1pm: [Current questions] (https://docs.google.com/presentation/d/1oq3hsq7qOgkFmn7fg6CCQDI_6x2zVZVOMpbbTcDpbSk/edit?usp=sharing)
+    * Maybe I don't need to use the SDK. Can I do this all in Google Cloud Shell?
 
 
   &nbsp; &nbsp; &nbsp; &nbsp;
