@@ -20,7 +20,7 @@
     * Ok, got all hashtags split off and the hash character readded but it probably took too many CALCs and it's adding hashtag characters to the empty fields as well. Not best use of time to keep going at this. Tabling and moving on.
     
 &nbsp;
-* I used commands I didn't understand in Terminal to batch rename my images, even though it was scary.
+* **I used commands I didn't understand in Terminal to batch rename my images, even though it was scary.
     * [StackExchange source](https://apple.stackexchange.com/questions/236213/renaming-files-names-in-bulk-any-smarter-solution)
     
     
