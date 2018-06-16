@@ -17,7 +17,7 @@
 
 &nbsp;
 * Current challenge: how to split caption string to get hashtags isolated
-    * Ok, got all hashtags split off and the hash character readded but it probably took too many CALCs and it's adding hashtag characters to the empty fields as well. Not best use of time to keep going at this. Tabling and moving on.
+    * Ok, got all hashtags split off and the hash character readded but it probably took too many CALCs and it's adding hashtag characters to the empty fields as well. Not best use of time to keep going at this. Tabling (haha is that a pun?) and moving on.
     
 &nbsp;
 * **I used commands I didn't understand in Terminal to batch rename my images, even though it was scary.
