@@ -26,7 +26,10 @@
 
 
 #### Data prep
-* Field with date and time came in as string, converted to Date & Time field
+* Data downloaded from Instagram 180607. Received photos as JPGs, videos as MP4s, multiple JSON files. I excluded videos from this project.
+
+&nbsp;
+* Tableau: I used only media.json. Field with date and time came in as string, converted to Date & Time field
 
 &nbsp;
 * Image names only provided as part of path, so split path to access name only data
@@ -41,7 +44,9 @@
 * Batch renamed images to match name CALC from Tableau using commands in Terminal
 
 &nbsp;
-* Selecting most recent 50 images (not including any selfies) to work with. This may be too ambitious.
+* Selecting most recent 50 photos (not including any selfies) to work with. This may be too ambitious. Oldest image in set is from October 2017.
+
+
 
 
 
