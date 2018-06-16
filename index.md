@@ -1,15 +1,15 @@
 #### Hello world &nbsp; &nbsp; :/
 
-### [Assignment 2: quantified self](./assignment2-mfp.md)
+### [Assignment 2: quantified self](./006_assignment2-mfp.md)
 
-### [Dashboard success](./dashboardsuccess.md)
+### [Dashboard success](./005_dashboardsuccess.md)
 
-### [Assignment 1: 311 data visualizations](./assignment1-parks.md)
+### [Assignment 1: 311 data visualizations](./004_assignment1-parks.md)
 
-### [Dashboard fail](./dashboardfails.md)
+### [Dashboard fail](./003_dashboardfails.md)
 
-### [I'm stuck!](./sos_180601.md)
+### [I'm stuck!](./002_sos_180601.md)
 
-### [First day exercise: what's for lunch?](./blogpost1.md)
+### [First day exercise: what's for lunch?](./001_blogpost1.md)
 
 
