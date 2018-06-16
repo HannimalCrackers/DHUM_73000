@@ -11,6 +11,7 @@
     
 * How to custom split columns in the Data Source pane in Tableau
     * Photo taken info came in as a mashed together string field / separated into identifiable date and time
+    * Realized late that just changing field format worked fine, but now I know how to split if I ever need to
 
 
 
