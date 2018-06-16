@@ -21,7 +21,7 @@
     * [StackExchange source](https://apple.stackexchange.com/questions/236213/renaming-files-names-in-bulk-any-smarter-solution)
     
 &nbsp;
-* In Google Cloud Vision API setup. Created sample app in tutorial. Downloading Google Cloud SDK. Need Python 2.7.0 first. Downloading that. Oh ok, should be 2.7.13. 
+* Google Cloud Vision API setup. Created sample app in tutorial. Downloading Google Cloud SDK. Need Python 2.7.0 first. Downloading that. Oh ok, should be 2.7.13. Downloading that.
 
 &nbsp;
 * Downloaded Google Cloud SDK. Now I'm back in terminal. Does this all happen in Terminal? It's 1:00am on technically-Saturday and my life just got complicated. Calling it a night soon.
