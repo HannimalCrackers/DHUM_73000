@@ -1,6 +1,6 @@
 # Things I'm learning working on this final project
 
-#### Introduction
+#### Listing
 
 * How to make a bulleted list in markdown with an asterisk then a space
     * How to make nested lists in markdown
@@ -14,6 +14,9 @@
     * Realized late that just changing field format worked fine, but now I know how to split if I ever need to
 
 * Current challenge: how to split caption string to get hashtags isolated
+    * Ok, got all hashtags split off and the hash character readded but it probably took too many CALCs and it's adding hashtag characters to the empty fields as well. Not best use of time to keep going at this. Tabling and moving on.
+    
+* 
 
 
 
