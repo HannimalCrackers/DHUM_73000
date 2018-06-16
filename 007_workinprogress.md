@@ -1,4 +1,4 @@
-# Learnings, data prep, notes
+# WIP: learnings, data prep, notes
 
 #### Things I'm learning working on the final project
 
