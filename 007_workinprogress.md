@@ -13,7 +13,7 @@
     * Photo taken info came in as a mashed together string field / separated into identifiable date and time
     * Realized late that just changing field format worked fine, but now I know how to split if I ever need to
 
-
+* Current challenge: how to split caption string to get hashtags isolated
 
 
 
