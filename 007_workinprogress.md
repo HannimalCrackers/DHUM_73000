@@ -43,6 +43,9 @@
 &nbsp;
 * Batch renamed images to match name CALC from Tableau using commands in Terminal
 
+&nbsp;
+* Selecting most recent 50 images (not including any selfies) to work with. This may be too ambitious.
+
 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
