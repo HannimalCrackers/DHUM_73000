@@ -68,6 +68,7 @@
 * 6/16 at 1pm: [Current questions](https://docs.google.com/presentation/d/1oq3hsq7qOgkFmn7fg6CCQDI_6x2zVZVOMpbbTcDpbSk/edit?usp=sharing)
     * Maybe I don't need to use the SDK. Can I do this all in Google Cloud Shell?
 * 1:30pm: setting up a [Python development environment](https://cloud.google.com/python/setup)
+* 2:30pm: setting up Python seems complicated and hopefully overkill for what I need. Seeing if I can just make a C# script instead.
 
 
   &nbsp; &nbsp; &nbsp; &nbsp;
