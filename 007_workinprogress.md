@@ -69,7 +69,7 @@
     * Maybe I don't need to use the SDK. Can I do this all in Google Cloud Shell?
 * 1:30pm: setting up a [Python development environment](https://cloud.google.com/python/setup)
 * 2:30pm: setting up Python seems complicated and hopefully overkill for what I need. Seeing if I can just make a C# script instead.
-* 3:40pm: I kept bashing my head against the Python wall. Trying C# solution in MonoDeveloper instead for real now.
+* 3:40pm: I kept bashing my head against the Python wall. Trying C# solution in MonoDevelop instead for real now.
 
 
   &nbsp; &nbsp; &nbsp; &nbsp;
