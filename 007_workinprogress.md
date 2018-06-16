@@ -52,7 +52,8 @@
 
 #### Other notes
 
-
+&nbsp;
+* I imagine I'll use this category
 
 
   &nbsp; &nbsp; &nbsp; &nbsp;
