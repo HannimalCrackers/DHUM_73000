@@ -1,6 +1,6 @@
-# Things I'm learning working on this final project
+# Learnings, data prep, notes
 
-#### Listing
+#### Things I'm learning working on the final project
 
 * How to make a bulleted list in markdown with an asterisk then a space
     * How to make nested lists in markdown
@@ -23,7 +23,27 @@
 * I used commands I didn't understand in Terminal to batch rename my images, even though it was scary.
     * [StackExchange source](https://apple.stackexchange.com/questions/236213/renaming-files-names-in-bulk-any-smarter-solution)
     
+    
+    
+&nbsp; &nbsp; &nbsp; &nbsp;
 
+
+#### Data prep
+* Field with date and time came in as string, converted to Date & Time field
+&nbsp;
+* Image names only provided as part of path, so split path to access name only data
+&nbsp;
+* Created CALC to create new name field for images with image index # and YYYYMM info at beginning
+&nbsp;
+* Created CALCs to split out hashtags from captions, which removed hashtag character so I created more CALCs to add hashtag back in. Ended up with way too many CALCs probably.
+&nbsp;
+* Batch renamed images to match name CALC from Tableau using commands in Terminal
+
+
+
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+#### Other notes
 
 
 
