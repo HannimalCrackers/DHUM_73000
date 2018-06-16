@@ -2,11 +2,11 @@
 
 #### Introduction
 
-*How to make a bulleted list in markdown
+* How to make a bulleted list in markdown
 
-*Is this working?
+* Is this working?
 
--What about with hyphens
+- What about with hyphens
 
 - hyphen test with space
 
