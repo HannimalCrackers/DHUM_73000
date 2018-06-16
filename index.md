@@ -1,5 +1,7 @@
 #### Hello world &nbsp; &nbsp; :/
 
+### [Work in progress](./007_workinprogress.md)
+
 ### [Assignment 2: quantified self](./006_assignment2-mfp.md)
 
 ### [Dashboard success](./005_dashboardsuccess.md)
