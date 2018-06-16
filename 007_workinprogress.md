@@ -30,12 +30,16 @@
 
 #### Data prep
 * Field with date and time came in as string, converted to Date & Time field
+
 &nbsp;
 * Image names only provided as part of path, so split path to access name only data
+
 &nbsp;
 * Created CALC to create new name field for images with image index # and YYYYMM info at beginning
+
 &nbsp;
 * Created CALCs to split out hashtags from captions, which removed hashtag character so I created more CALCs to add hashtag back in. Ended up with way too many CALCs probably.
+
 &nbsp;
 * Batch renamed images to match name CALC from Tableau using commands in Terminal
 
