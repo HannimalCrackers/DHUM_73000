@@ -4,7 +4,7 @@
 
 * How to make a bulleted list in markdown
 
-* Is this working?
+** That bulleted lists work with both the asterisk and the hyphen
 
 - What about with hyphens
 
