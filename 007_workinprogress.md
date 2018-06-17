@@ -70,13 +70,10 @@
 
 &nbsp;
 * Created a Google Cloud account and uploaded my image set into a bucket named dhum73000-imageset-180615
-
 &nbsp;
 * Google Cloud Vision API setup. Created sample app in tutorial in Google Cloud Shell. Installed Python 2.7.13. Downloaded Brackets and Sublime Text.
-
 &nbsp;
 * Downloaded Google Cloud SDK. Now I'm back in terminal. Does this all happen in Terminal? It's 1:00am on technically-Saturday and my life just got complicated. Calling it a night soon.
-
 &nbsp;
 * 6/16 at 1pm: [Current questions](https://docs.google.com/presentation/d/1oq3hsq7qOgkFmn7fg6CCQDI_6x2zVZVOMpbbTcDpbSk/edit?usp=sharing)
     * Maybe I don't need to use the SDK. Can I do this all in Google Cloud Shell?
