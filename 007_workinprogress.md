@@ -47,6 +47,8 @@
 &nbsp;
 * Selecting most recent 50 photos (not including any selfies) to work with. This may be too ambitious. Oldest image in set is from October 2017.
 
+&nbsp;
+* Pulling out top 5 results from Google Vision for analysis
 
 
 
