@@ -59,6 +59,8 @@
 &nbsp;
 * Non-American spellings and terms (neighbourhood, loch, archaeological, jewellery) mixed in with American spellings (jewelry)
 
+&nbsp;
+* Some images returned fewer than 5 results. One image returned no results.
 
 
 
