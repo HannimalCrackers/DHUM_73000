@@ -52,10 +52,19 @@
 
 
 
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+#### Results notes
+
+&nbsp;
+* Non-American spellings and terms (neighbourhood, loch, archaeological, jewellery) mixed in with American spellings (jewelry)
+
+
+
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-#### Other notes
+#### Process notes
 
 &nbsp;
 * Created a Google Cloud account and uploaded my image set into a bucket named dhum73000-imageset-180615
