@@ -21,7 +21,15 @@
     * [StackExchange source](https://apple.stackexchange.com/questions/236213/renaming-files-names-in-bulk-any-smarter-solution)
     
 
-    
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+
+#### Questions for tech work session
+* How to structure Python query to pull image data from Google Cloud
+
+* Can't seem to add any other data sources to JSON
+
+
     
 &nbsp; &nbsp; &nbsp; &nbsp;
 
@@ -48,7 +56,13 @@
 * Selecting most recent 50 photos (not including any selfies) to work with. This may be too ambitious. Oldest image in set is from October 2017.
 
 &nbsp;
-* Pulling out top 5 results from Google Vision for analysis
+* Pulling out top 5 results from Google Vision for analysis and pasted into Excel file
+
+&nbsp; 
+* Manually entered my 5 labels for each image into another sheet on the Excel file
+
+&nbsp; 
+* Cannot get my Excel sheets into Tableau with the JSON data from Instagram loaded, so exporting JSON data, along with the field calculations into a CSV.
 
 
 
