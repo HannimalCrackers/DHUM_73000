@@ -35,6 +35,8 @@
 
 * How could I have done the hashtag splitting and readding more accurately and effectively?
 
+* Each record shows as having come in 5 times because it multiplied my 5 labels by Vision's 5 labels.
+
 
     
 &nbsp; &nbsp; &nbsp; &nbsp;
