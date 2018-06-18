@@ -6,7 +6,16 @@
 Lorem ipsum
 
 
+#### Visualization A: Word Cloud Comparison of AI Labels vs Mine
+
+Lorem ipsum
+
   {% include aidash-clouds.html %}
+  
+  
+#### Visualization B: Top Locations Bar Chart with Images in Tooltip
+
+Lorem ipsum
 
   {% include aidash-locations.html %}
 
