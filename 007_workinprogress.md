@@ -92,12 +92,17 @@
 
 &nbsp;
 6/15
+&nbsp;
+
 * Created a Google Cloud account and uploaded my image set into a bucket named dhum73000-imageset-180615
 * Google Cloud Vision API setup. Created sample app in tutorial in Google Cloud Shell. Installed Python 2.7.13. Downloaded Brackets and Sublime Text.
 * Downloaded Google Cloud SDK. Now I'm back in terminal. Does this all happen in Terminal? It's 1:00am on technically-Saturday and my life just got complicated. Calling it a night soon.
 * Used Homebrew to install Python 3 and a Python 2.7.16 via Command line.
+
 &nbsp;
 6/16
+&nbsp;
+
 * 1pm: [Current questions](https://docs.google.com/presentation/d/1oq3hsq7qOgkFmn7fg6CCQDI_6x2zVZVOMpbbTcDpbSk/edit?usp=sharing)
     * Maybe I don't need to use the SDK. Can I do this all in Google Cloud Shell?
 * 1:30pm: setting up a [Python development environment](https://cloud.google.com/python/setup)
@@ -105,8 +110,11 @@
 * 3:40pm: I kept bashing my head against the Python wall. Trying C# solution in MonoDevelop instead for real now. 
     * Went back to Python. It keeps having trouble finding my Google Cloud SDK when I try to run scripts. Not every time, but often.
 * 6:30pm: Giving up on getting batch results through code. Running image links through Interactive API one by one.
+
 &nbsp;
 6/17
+&nbsp;
+
 * Probably need to wipe my current installs of everything (if possible) and start fresh. Google Cloud SDK isn't in correctly. I don't understand Homebrew and not sure that install went correctly either. Also the EnvWrapper was being weird, and really wanted me to have things in my user directory as opposed to the root level Library > Frameworks place that 2.7.13 was in, but even after I copied into my local directory it couldn't find them there. Best to start fresh.
 
 
