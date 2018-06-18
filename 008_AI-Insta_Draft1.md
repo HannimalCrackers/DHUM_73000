@@ -14,11 +14,21 @@ Lorem ipsum
   
   &nbsp; &nbsp; 
   
+  
 #### Visualization B: Top Locations Bar Chart with Images in Tooltip
 
 Lorem ipsum
 
   {% include aidash-locations.html %}
+  
+  &nbsp; &nbsp; 
+  
+  
+#### Visualization C: Select Images Comparing AI Labels vs Mind
+
+Hover over each image to see alt text with commentary.
+  
+  {% include aidash-static.html %} 
 
 
 
