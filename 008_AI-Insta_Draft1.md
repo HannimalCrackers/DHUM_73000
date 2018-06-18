@@ -29,16 +29,16 @@ In this visualization I was experimenting with incorporating the images of my In
 
 I was curious about the capability of an artificial intelligence to assign appropriate labels to images. To explore this, I uploaded my 50 most recent images to a bucket in Google Cloud, then used the Interactive API embedded on a Google webpage to run each image one by one through the Google Vision AI and copied the labels it returned into a spreadsheet. Separately, I selected five labels myself for each image. 
 
-I then compared the labels the AI came up with to the labels I came up with using a word cloud. As shown below, the AI and I agreed that I often take photos of architecture, sky and water. There was very little overlap however otherwise.
+I then created word clouds to compare the labels the AI came up with to labels I assigned. As shown below, the AI and I agreed that I often take photos of architecture, sky and water. There was very little overlap, however, otherwise.
 
   {% include aidash-clouds.html %}
   
   &nbsp; &nbsp; 
   
   
-## Visualization C: Select Images Comparing AI Labels vs Mind
+## Visualization C: Select Images Comparing AI Labels vs Mine
 
-It's interesting to more closely examine the labels Google Vision chose for each image. Below is a sampling of images with Vision's top five labels and my own five labels shown alongside. In some instances our labeling was closely aligned. In others, Vision made clear errors or failed to identify the main subject matter. Vision did not always return at least five labels. In one instance shown below it did not venture any labels at all.
+There is a degree of subjectivity in labeling, and my labels are not inherently correct. Still, it's interesting to more closely examine exactly what the AI and I chose for each image. Below is a sampling of images with Vision's top five labels and my own five labels shown alongside. In some instances our labeling was closely aligned. In others, Vision made clear errors or failed to identify the main subject matter. Vision did not always return at least five labels. In one instance shown below it did not venture any labels at all.
 
 The images below are currently static. I will be working to present this content in a more interactive way by the time of our crit on Thursday.
   
