@@ -79,6 +79,8 @@
 
 * Pasting the two labels sheets together into a single Excel sheet. Also fixing the mismatched capitalization while I'm at it. Google Vision used lowercase for labels. I realized when I saw the word clouds that I used initial caps. To fix this I had to use a calculation in Excel to switch all my labels to lowercase, then I went through and manually removed the calculation from the cells that had proper names to preserve those capitalizations.
 
+* This fixed how many times each label appears. But each image shows 10 records – one record each for every label from Google Vision and myself. Maybe I shouldn't have pivoted (technically unpivoted) the data? Leaving my word clouds dashboard as is because it's already posted and linked, but starting fresh for my locations chart.
+
 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
