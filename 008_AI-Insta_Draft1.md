@@ -5,9 +5,13 @@
 
 ## Introduction
 
-Lorem ipsum
+In this project I explore my 50 most recent Instagram posts (excluding selfies) and delve into the research question, how do the results of AI image analysis correspond or differ from my own assignation of labels to my own Instagram photos? Audiences for this analysis are myself, as I like my photos and enjoy working with them, along with those who are interested in the current state of AI assisted image analysis.
 
+To explore this question I downloaded my personal photos and data from Instagram. My data prep is detailed (messily) in this supplemental post: [Work in progress](./007_workinprogress.md).
 
+This post and these visualizations are not in great shape. I had a very challenging weekend. Beyond the Python misfire, I was not even suceeding at Tableau things I thought I understood. I also have some sort of corruption in my data. Certain rows throw errors when I try to filter with them. 
+
+I will continue to work on my visualizations, the coherence of the story, and this post all week in preparation for our reviews on Thursday.
 
   
 ## Visualization A: Top Locations Bar Chart with Images in Tooltip
