@@ -22,26 +22,13 @@
 
 &nbsp;
 * Pivoting is sometimes the entirely wrong move. (<a href="//imgur.com/jiFfM.jpg">Double facepalm</a>)
-    
-
-&nbsp; &nbsp; &nbsp; &nbsp;
-
-
-# Questions for tech work session
-* How to structure Python query to pull image data from Google Cloud
-
-* How could I have done the hashtag splitting and re-adding more accurately and effectively?
-
-* CALC to join all hashtags returning Null when I try to concatenate all hashtags
-
-* Can't get a CALC to only show locations with 3 or more records (I had to manually exclude, sloppy)
 
 
     
 &nbsp; &nbsp; &nbsp; &nbsp;
 
 
-#### Data prep
+# Data prep
 * Data downloaded from Instagram 180607. Received photos as JPGs, videos as MP4s, multiple JSON files. I excluded videos from this project.
 
 &nbsp;
@@ -86,26 +73,18 @@
 &nbsp;
 * I brought in data fresh into my Locations workbook without any pivoting action and everything worked correctly. Pivoting was the wrong move.
 
-
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-#### Results notes
-&nbsp;
-* Non-American spellings and terms (neighbourhood, loch, archaeological, jewellery) mixed in with American spellings (jewelry)
 
-&nbsp;
-* Some images returned fewer than 5 results. One image returned no results.
+# Questions for tech work session
+* How to structure Python query to pull image data from Google Cloud
 
-&nbsp;
-* 14 records were not tagged for location. Nulls were excluded from the location graph.
+* How could I have done the hashtag splitting and re-adding more accurately and effectively?
 
+* CALC to join all hashtags returning Null when I try to concatenate all hashtags
 
-&nbsp; &nbsp; &nbsp; &nbsp;
+* Can't get a CALC to only show locations with 3 or more records (I had to manually exclude, sloppy)
 
-#### Followup - to do list
-
-
-&nbsp; &nbsp; &nbsp; &nbsp;
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
