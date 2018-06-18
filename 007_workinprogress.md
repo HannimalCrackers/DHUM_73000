@@ -34,13 +34,11 @@
 # Questions for tech work session
 * How to structure Python query to pull image data from Google Cloud
 
-* How could I have done the hashtag splitting and readding more accurately and effectively?
+* How could I have done the hashtag splitting and re-adding more accurately and effectively?
 
-* Each record shows as having come in 5 times because it multiplied my 5 labels by Vision's 5 labels
+* CALC to join all hashtags returning Null when I try to concatenate all hashtags
 
-* Calc to join all hashtags returning Null when I try to join all hashtags
-
-* Can't get my CALC to only show 2 records or more to work
+* Can't get a CALC to only show locations with 3 or more records (I had to manually exclude, sloppy)
 
 
     
@@ -80,12 +78,17 @@
 &nbsp;
 * Loaded the cleaned up data from the formerly JSON media file into Tableau. Then joined the Excel with sheets listing Google Vision's labels and my labels. I used an inner join, so that only the set of 50 images which were labeled would appear. I checked the number of records quickly on Sheet 1 to confirm that there were 50 records.
 
+&nbsp;
 * Discovered immediately that there can only be one pivot per workbook in Tableau. I needed both the Google Vision Labels and My Labels sheets to pivot (technically unpivot). Could not find quick way to do it on Excel for Mac, so brought each sheet into Tableau, pivoted, and exported a CSV separately. Brought both CSVs into Tableau and tried joining to the media data, but column header names in one of my CSVs were not being read correctly and wouldn't join. So I opened both CSVs and saved as Excel. Then brought both sheets back into Tableau. It's still bringing in each record 5 times because it's multiplying my labels by Google Vision's labels.
 
+&nbsp;
 * Pasting the two labels sheets together into a single Excel sheet. Also fixing the mismatched capitalization while I'm at it. Google Vision used lowercase for labels. I realized when I saw the word clouds that I used initial caps. To fix this I had to use a calculation in Excel to switch all my labels to lowercase, then I went through and manually removed the calculation from the cells that had proper names to preserve those capitalizations.
 
+&nbsp;
 * This fixed how many times each label appears. But each image shows 10 records – one record each for every label from Google Vision and myself. Maybe I shouldn't have pivoted (technically unpivoted) the data? Leaving my word clouds dashboard as is because it's already posted and linked, but starting fresh for my locations chart.
 
+&nbsp;
+* I brought in data fresh into my Locations workbook without any pivoting action and everything worked correctly. Pivoting was the wrong move.
 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -113,13 +116,13 @@
 #### Process notes - so I can retrace my steps later and do Python right
 
 &nbsp;
+6/15
 * Created a Google Cloud account and uploaded my image set into a bucket named dhum73000-imageset-180615
-&nbsp;
 * Google Cloud Vision API setup. Created sample app in tutorial in Google Cloud Shell. Installed Python 2.7.13. Downloaded Brackets and Sublime Text.
-&nbsp;
 * Downloaded Google Cloud SDK. Now I'm back in terminal. Does this all happen in Terminal? It's 1:00am on technically-Saturday and my life just got complicated. Calling it a night soon.
 * Used Homebrew to install Python 3 and a Python 2.7.16 via Command line.
-* 6/16
+&nbsp;
+6/16
 * 1pm: [Current questions](https://docs.google.com/presentation/d/1oq3hsq7qOgkFmn7fg6CCQDI_6x2zVZVOMpbbTcDpbSk/edit?usp=sharing)
     * Maybe I don't need to use the SDK. Can I do this all in Google Cloud Shell?
 * 1:30pm: setting up a [Python development environment](https://cloud.google.com/python/setup)
@@ -127,7 +130,9 @@
 * 3:40pm: I kept bashing my head against the Python wall. Trying C# solution in MonoDevelop instead for real now. 
     * Went back to Python. It keeps having trouble finding my Google Cloud SDK when I try to run scripts. Not every time, but often.
 * 6:30pm: Giving up on getting batch results through code. Running image links through Interactive API one by one.
-* Probably need to wipe my current installs of everything (if possible) and start fresh. Google Cloud SDK isn't in correctly. I don't understand Homebrew and not sure that install went correctly either. Also the EnvWrapper was being weird, and really wanted me to have things in my user directory as opposed to the root level Library > Frameworks place that 2.7.13 was in.
+&nbsp;
+6/17
+* Probably need to wipe my current installs of everything (if possible) and start fresh. Google Cloud SDK isn't in correctly. I don't understand Homebrew and not sure that install went correctly either. Also the EnvWrapper was being weird, and really wanted me to have things in my user directory as opposed to the root level Library > Frameworks place that 2.7.13 was in, but even after I copied into my local directory it couldn't find them there. Best to start fresh.
 
 
   &nbsp; &nbsp; &nbsp; &nbsp;
