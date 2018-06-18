@@ -19,6 +19,7 @@
 &nbsp;
 * **I used commands I didn't understand in Terminal to batch rename my images, even though it was scary.**
     * [StackExchange source](https://apple.stackexchange.com/questions/236213/renaming-files-names-in-bulk-any-smarter-solution)
+    * Update from 2 days later: After all the quality time with Terminal during my Python misadventure, I'm much more comfortable with it
     
 
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -28,6 +29,8 @@
 * How to structure Python query to pull image data from Google Cloud
 
 * Can't seem to add any other data sources to JSON
+
+* How could I have done the hashtag splitting and readding more accurately and effectively?
 
 
     
@@ -47,7 +50,7 @@
 * Created CALC to create new name field for images with image index # and YYYYMM info at beginning
 
 &nbsp;
-* Created CALCs to split out hashtags from captions, which removed hashtag character so I created more CALCs to add hashtag back in. Ended up with way too many CALCs probably.
+* Created CALCs to split out hashtags from captions, which removed hashtag character so I created more CALCs to add hashtag back in. Ended up with way too many CALCs probably. Also it added the hashtag character to all fields, not just the ones with data.
 
 &nbsp;
 * Batch renamed images to match name CALC from Tableau using commands in Terminal
@@ -62,7 +65,10 @@
 * Manually entered my 5 labels for each image into another sheet on the Excel file
 
 &nbsp; 
-* Cannot get my Excel sheets into Tableau with the JSON data from Instagram loaded, so exporting JSON data, along with the field calculations into a CSV.
+* Could not get my Excel sheets into Tableau with the JSON data from Instagram loaded, so exported JSON data, along with the field calculations into a CSV. Took the opportunity to clean up data in Excel. I deleted the hashtag symbols that were filling what should have been null fields. Fixed some data which had come in in wrong columns. Removed extra words after the hashtags that came in when I used hashtags in the middle of sentences.
+
+&nbsp;
+* Loaded the cleaned up data from the formerly JSON media file into Tableau. Then joined the Excel with sheets listing Google Vision's labels and my labels. I used an inner join, so that only the set of 50 images which were labeled would appear. I checked the number of records quickly on Sheet 1 to confirm that there were 50 records.
 
 
 
