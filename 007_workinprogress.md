@@ -22,7 +22,7 @@
     * Update from 2 days later: After all the quality time with Terminal during my Python misadventure, I'm much more comfortable with it
     
 &nbsp;
-* [I can only pivot once per workbook.](<a href="//imgur.com/iWKad22">Picard facepalm HD</a>)
+* I can only pivot once per workbook. (<a href="//imgur.com/iWKad22">Picard facepalm HD</a>)
     
 
 &nbsp; &nbsp; &nbsp; &nbsp;
