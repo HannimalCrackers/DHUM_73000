@@ -1,5 +1,7 @@
 #### Hello world &nbsp; &nbsp; :/
 
+### [Final project: AI image labeling, draft 1](./008_AI-Insta_Draft1.md)
+
 ### [Work in progress](./007_workinprogress.md)
 
 ### [Assignment 2: quantified self](./006_assignment2-mfp.md)
