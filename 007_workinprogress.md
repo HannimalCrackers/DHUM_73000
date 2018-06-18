@@ -92,6 +92,9 @@
 &nbsp;
 * Some images returned fewer than 5 results. One image returned no results.
 
+&nbsp;
+* 14 records were not tagged for location. Nulls were excluded from the location graph.
+
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
