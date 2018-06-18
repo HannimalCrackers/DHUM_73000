@@ -37,6 +37,8 @@
 
 * Calc to join all hashtags returning Null when I try to join all hashtags
 
+* Can't get my CALC to only show 2 records or more to work
+
 
     
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -99,7 +101,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 
 #### Followup - to do list
-* Change case of my labels - will need to use a formula in Excel
 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
