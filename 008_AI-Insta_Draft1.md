@@ -12,6 +12,7 @@ Lorem ipsum
 
   {% include aidash-clouds.html %}
   
+  &nbsp; &nbsp; 
   
 #### Visualization B: Top Locations Bar Chart with Images in Tooltip
 
