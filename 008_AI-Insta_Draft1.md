@@ -31,6 +31,8 @@ I was curious about the capability of an artificial intelligence to assign appro
 
 I then created word clouds to compare the labels the AI came up with to labels I assigned. As shown below, the AI and I agreed that I often take photos of architecture, sky and water. There was very little overlap, however, otherwise.
 
+User note: more commonly used words appear larger and darker.
+
   {% include aidash-clouds.html %}
   
   &nbsp; &nbsp; 
