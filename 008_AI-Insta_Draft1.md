@@ -1,36 +1,42 @@
 
 # Lorem Ipsum Title
 
-## 2 Pound Test
 
-### 3 Pound Test
 
-#### Introduction
+## Introduction
 
 Lorem ipsum
 
 
-#### Visualization A: Word Cloud Comparison of AI Labels vs Mine
 
-Lorem ipsum
+  
+## Visualization A: Top Locations Bar Chart with Images in Tooltip
+
+Below is a segmented bar chart showing the locations I tagged at least three times in my 50 most recent posts. Three of the four categories are in Iceland, but I preferred to keep them separate as the content was quite distinct between them. The fourth location is the library at John Jay College of Criminal Justice.
+
+In this visualization I was experimenting with incorporating the images of my Instagram posts into Tableau. The images are embedded into the tooltips, so that when one hovers over a section of the bar chart the relevant image is displayed. The image is showing far too small, however. I will be looking into whether it is possible to make it display larger or, if not, other methods of including imagery in Tableau.
+
+  {% include aidash-locations.html %}
+  
+  &nbsp; &nbsp; 
+  
+
+## Visualization B: Word Cloud Comparison of AI Labels vs Mine
+
+I was curious about the capability of an artificial intelligence to assign appropriate labels to images. To explore this, I uploaded my 50 most recent images to a bucket in Google Cloud, then used the Interactive API embedded on a Google webpage to run each image one by one through the Google Vision AI and copied the labels it returned into a spreadsheet. Separately, I selected five labels myself for each image. 
+
+I then compared the labels the AI came up with to the labels I came up with using a word cloud. As shown below, the AI and I agreed that I often take photos of architecture, sky and water. There was very little overlap however otherwise.
 
   {% include aidash-clouds.html %}
   
   &nbsp; &nbsp; 
   
   
-#### Visualization B: Top Locations Bar Chart with Images in Tooltip
+## Visualization C: Select Images Comparing AI Labels vs Mind
 
-Lorem ipsum
+It's interesting to more closely examine the labels Google Vision chose for each image. Below is a sampling of images with Vision's top five labels and my own five labels shown alongside. In some instances our labeling was closely aligned. In others, Vision made clear errors or failed to identify the main subject matter. Vision did not always return at least five labels. In one instance shown below it did not venture any labels at all.
 
-  {% include aidash-locations.html %}
-  
-  &nbsp; &nbsp; 
-  
-  
-#### Visualization C: Select Images Comparing AI Labels vs Mind
-
-Hover over each image to see alt text with commentary.
+The images below are currently static. I will be working to present this content in a more interactive way by the time of our crit on Thursday.
   
   {% include aidash-static.html %} 
 
