@@ -35,7 +35,7 @@
 
 * Each record shows as having come in 5 times because it multiplied my 5 labels by Vision's 5 labels
 
-* Calc to join all hashtags returning Null for everything
+* Calc to join all hashtags returning Null when I try to join all hashtags
 
 
     
