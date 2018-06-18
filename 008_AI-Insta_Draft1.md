@@ -1,5 +1,5 @@
 
-# Lorem Ipsum Title
+# Instagram Image Exploration and AI Analysis
 
 
 
