@@ -1,6 +1,6 @@
 # WIP: learnings, data prep, notes
 
-#### Things I'm learning working on the final project
+#### Things I've learned so far working on the final project
 
 * How to make a bulleted list in markdown with an asterisk then a space
     * How to make nested lists in markdown
