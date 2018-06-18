@@ -73,6 +73,8 @@
 &nbsp;
 * Loaded the cleaned up data from the formerly JSON media file into Tableau. Then joined the Excel with sheets listing Google Vision's labels and my labels. I used an inner join, so that only the set of 50 images which were labeled would appear. I checked the number of records quickly on Sheet 1 to confirm that there were 50 records.
 
+* Discovered immediately that there can only be one pivot per workbook in Tableau. I needed both the Google Vision Labels and My Labels sheets to pivot (technically unpivot). Could not find quick way to do it on Excel for Mac, so brought each sheet into Tableau, pivoted, and exported a CSV separately. One of the CSVs had corrupted column header names, so I had to manually edit that. Then brought both sheets back into Tableau.
+
 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
