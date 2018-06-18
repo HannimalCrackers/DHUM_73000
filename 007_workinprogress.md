@@ -21,6 +21,9 @@
     * [StackExchange source](https://apple.stackexchange.com/questions/236213/renaming-files-names-in-bulk-any-smarter-solution)
     * Update from 2 days later: After all the quality time with Terminal during my Python misadventure, I'm much more comfortable with it
     
+&nbsp;
+* [I can only pivot once per workbook.](<blockquote class="imgur-embed-pub" lang="en" data-id="iWKad22"><a href="//imgur.com/iWKad22">Picard facepalm HD</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+    
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
