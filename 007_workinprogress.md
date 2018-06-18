@@ -87,6 +87,13 @@
 * Some images returned fewer than 5 results. One image returned no results.
 
 
+&nbsp; &nbsp; &nbsp; &nbsp;
+
+#### Followup - to do list
+* Change case of my labels - will need to use a formula in Excel
+
+
+&nbsp; &nbsp; &nbsp; &nbsp;
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
