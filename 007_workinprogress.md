@@ -78,7 +78,6 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 
 #### Results notes
-
 &nbsp;
 * Non-American spellings and terms (neighbourhood, loch, archaeological, jewellery) mixed in with American spellings (jewelry)
 
