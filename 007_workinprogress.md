@@ -109,6 +109,7 @@
 * 2:30pm: setting up Python seems complicated and hopefully overkill for what I need. Seeing if I can just make a C# script instead.
 * 3:40pm: I kept bashing my head against the Python wall. Trying C# solution in MonoDevelop instead for real now. 
     * Went back to Python. It keeps having trouble finding my Google Cloud SDK when I try to run scripts. Not every time, but often.
+* 4:00pm: Set up authentication key for API
 * 6:30pm: Giving up on getting batch results through code. Running image links through Interactive API one by one.
 
 &nbsp;
