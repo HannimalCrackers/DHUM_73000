@@ -53,7 +53,7 @@
 * Created CALC to create new name field for images with image index # and YYYYMM info at beginning
 
 &nbsp;
-* Created CALCs to split out hashtags from captions, which removed hashtag character so I created more CALCs to add hashtag back in. Ended up with way too many CALCs probably. Also it added the hashtag character to all fields, not just the ones with data.
+* Leaded in the media JSON file and created CALCs to split out hashtags from captions, which removed hashtag character so I created more CALCs to add hashtag back in. Ended up with way too many CALCs probably. Also it added the hashtag character to all fields, not just the ones with data.
 
 &nbsp;
 * Batch renamed images to match name CALC from Tableau using commands in Terminal
@@ -68,12 +68,12 @@
 * Manually entered my 5 labels for each image into another sheet on the Excel file
 
 &nbsp; 
-* Could not get my Excel sheets into Tableau with the JSON data from Instagram loaded, so exported JSON data, along with the field calculations into a CSV. Took the opportunity to clean up data in Excel. I deleted the hashtag symbols that were filling what should have been null fields. Fixed some data which had come in in wrong columns. Removed extra words after the hashtags that came in when I used hashtags in the middle of sentences.
+* Could not get my Excel sheets into Tableau with the JSON media data from Instagram loaded, so exported JSON media data along with the field calculations I created into a CSV. Took the opportunity to clean up data in Excel. I deleted the hashtag symbols that were filling what should have been null fields. Fixed some data which had come in in wrong columns. Removed extra words after the hashtags that came in when I used hashtags in the middle of sentences.
 
 &nbsp;
 * Loaded the cleaned up data from the formerly JSON media file into Tableau. Then joined the Excel with sheets listing Google Vision's labels and my labels. I used an inner join, so that only the set of 50 images which were labeled would appear. I checked the number of records quickly on Sheet 1 to confirm that there were 50 records.
 
-* Discovered immediately that there can only be one pivot per workbook in Tableau. I needed both the Google Vision Labels and My Labels sheets to pivot (technically unpivot). Could not find quick way to do it on Excel for Mac, so brought each sheet into Tableau, pivoted, and exported a CSV separately. One of the CSVs had corrupted column header names, so I had to manually edit that. Then brought both sheets back into Tableau.
+* Discovered immediately that there can only be one pivot per workbook in Tableau. I needed both the Google Vision Labels and My Labels sheets to pivot (technically unpivot). Could not find quick way to do it on Excel for Mac, so brought each sheet into Tableau, pivoted, and exported a CSV separately. Brought both CSVs into Tableau and tried joining to the media data, but column header names in one of my CSVs were not being read correctly and wouldn't join. So I opened both CSVs and saved as Excel. Then brought both sheets back into Tableau.
 
 
 
