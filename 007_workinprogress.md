@@ -86,7 +86,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-#### Process notes
+#### Process notes - so I can retrace my steps later and do Python right
 
 &nbsp;
 * Created a Google Cloud account and uploaded my image set into a bucket named dhum73000-imageset-180615
@@ -94,13 +94,16 @@
 * Google Cloud Vision API setup. Created sample app in tutorial in Google Cloud Shell. Installed Python 2.7.13. Downloaded Brackets and Sublime Text.
 &nbsp;
 * Downloaded Google Cloud SDK. Now I'm back in terminal. Does this all happen in Terminal? It's 1:00am on technically-Saturday and my life just got complicated. Calling it a night soon.
-&nbsp;
-* 6/16 at 1pm: [Current questions](https://docs.google.com/presentation/d/1oq3hsq7qOgkFmn7fg6CCQDI_6x2zVZVOMpbbTcDpbSk/edit?usp=sharing)
+* Used Homebrew to install Python 3 and a Python 2.7.16 via Command line.
+* 6/16
+* 1pm: [Current questions](https://docs.google.com/presentation/d/1oq3hsq7qOgkFmn7fg6CCQDI_6x2zVZVOMpbbTcDpbSk/edit?usp=sharing)
     * Maybe I don't need to use the SDK. Can I do this all in Google Cloud Shell?
 * 1:30pm: setting up a [Python development environment](https://cloud.google.com/python/setup)
 * 2:30pm: setting up Python seems complicated and hopefully overkill for what I need. Seeing if I can just make a C# script instead.
-* 3:40pm: I kept bashing my head against the Python wall. Trying C# solution in MonoDevelop instead for real now.
+* 3:40pm: I kept bashing my head against the Python wall. Trying C# solution in MonoDevelop instead for real now. 
+    * Went back to Python. It keeps having trouble finding my Google Cloud SDK when I try to run scripts. Not every time, but often.
 * 6:30pm: Giving up on getting batch results through code. Running image links through Interactive API one by one.
+* Probably need to wipe my current installs of everything (if possible) and start fresh. Google Cloud SDK isn't in correctly. I don't understand Homebrew and not sure that install went correctly either. Also the EnvWrapper was being weird, and really wanted me to have things in my user directory as opposed to the root level Library > Frameworks place that 2.7.13 was in.
 
 
   &nbsp; &nbsp; &nbsp; &nbsp;
