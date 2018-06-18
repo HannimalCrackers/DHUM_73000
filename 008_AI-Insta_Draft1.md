@@ -16,7 +16,7 @@ I will continue to work on my visualizations, the coherence of the story, and th
   
 ## Visualization A: Top Locations Bar Chart with Images in Tooltip
 
-Below is a segmented bar chart showing the locations I tagged at least three times in my 50 most recent posts. Three of the four categories are in Iceland, but I preferred to keep them separate as the content was quite distinct between them. The fourth location is the library at John Jay College of Criminal Justice, which is one of my favorite places in NYC.
+Below is a segmented bar chart showing the locations I tagged at least three times in my 50 most recent posts. Three of the four categories are in Iceland (I vacationed there in March), but I preferred to keep them separate as the content was quite distinct between them. The fourth location is the library at John Jay College of Criminal Justice, which is one of my favorite places in NYC.
 
 In this visualization I was experimenting with incorporating the images of my Instagram posts into Tableau. The images are embedded into the tooltips, so that when one hovers over a section of the bar chart the relevant image is displayed. The image is showing far too small, however. I will be looking into whether it is possible to make it display larger or, if not, other methods of including imagery in Tableau.
 
