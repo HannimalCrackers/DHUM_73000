@@ -8,6 +8,7 @@ Lorem ipsum
 
   {% include aidash-clouds.html %}
 
+  {% include aidash-locations.html %}
 
 
 
