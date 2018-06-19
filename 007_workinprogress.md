@@ -86,7 +86,7 @@
 
 * ~~Can't get a CALC to only show locations with 2 or more records (I had to manually exclude, sloppy)~~
 
-* Note: can't add more info to image tooltip
+* Note: can't add date or AI labels to image tooltip
 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
