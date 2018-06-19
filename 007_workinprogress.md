@@ -3,9 +3,8 @@
 #### Things I've learned so far working on the final project
 
 * More markdown features
-    * How to make a bulleted list in markdown with an asterisk then a space
-    * How to make nested lists in markdown
-    * ~~strikethrough~~
+    * How to make a bulleted list and nested list in markdown
+    * How to make a ~~strikethrough~~
 
 &nbsp;
 * That my GitHub directory was already getting messy
