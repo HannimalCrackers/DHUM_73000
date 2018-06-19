@@ -82,7 +82,9 @@
 
 * How could I have done the hashtag splitting and re-adding more accurately and effectively?
 
-* CALC to join all hashtags returning Null when I try to concatenate all hashtags
+* CALC to join all hashtags returning Null when I try to concatenate all hashtags. I have this problem anytime I try to concatenate strings but one or more is Null.
+
+* Get word cloud to show results for both GV labels and my labels together
 
 * ~~Can't get a CALC to only show locations with 2 or more records (I had to manually exclude, sloppy)~~
 
