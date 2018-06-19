@@ -2,8 +2,10 @@
 
 #### Things I've learned so far working on the final project
 
-* How to make a bulleted list in markdown with an asterisk then a space
+* More markdown features
+    * How to make a bulleted list in markdown with an asterisk then a space
     * How to make nested lists in markdown
+    * ~~strikethrough~~
 
 &nbsp;
 * That my GitHub directory was already getting messy
@@ -83,7 +85,9 @@
 
 * CALC to join all hashtags returning Null when I try to concatenate all hashtags
 
-* Can't get a CALC to only show locations with 3 or more records (I had to manually exclude, sloppy)
+* ~~Can't get a CALC to only show locations with 2 or more records (I had to manually exclude, sloppy)~~
+
+* Note: can't add more info to image tooltip
 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
