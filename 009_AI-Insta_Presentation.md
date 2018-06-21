@@ -33,9 +33,10 @@ I then created word clouds to compare the labels the AI came up with to labels I
 
 User notes: more commonly used words appear larger and darker. Hover over words to see how many times they were used as labels. 
 
+ {% include aidash-clouds-combined.html %} 
+
  {% include aidash-clouds-preso.html %} 
  
- {% include aidash-clouds-combined.html %} 
 
   
   &nbsp; &nbsp; 
