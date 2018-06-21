@@ -1,18 +1,18 @@
 #### Hello world &nbsp; &nbsp; :/
 
-#### [Final project: AI image labeling, white paper](./008_AI-Insta_WhitePaper.md)
+#### [FINAL PROJECT: AI image labeling, white paper](./008_AI-Insta_WhitePaper.md)
 
-### [FINAL PROJECT: AI image labeling, presentation](./009_AI-Insta_Presentation.md)
+## [FINAL PROJECT: AI image labeling, presentation](./009_AI-Insta_Presentation.md)
 
-#### [Final project: AI image labeling, draft 1](./008_AI-Insta_Draft1.md)
+#### [FINAL PROJECT: AI image labeling, draft 1](./008_AI-Insta_Draft1.md)
 
 #### [Work in progress](./007_workinprogress.md)
 
-#### [Assignment 2: quantified self](./006_assignment2-mfp.md)
+#### [ASSIGNMENT 2: quantified self](./006_assignment2-mfp.md)
 
 #### [Dashboard success](./005_dashboardsuccess.md)
 
-#### [Assignment 1: 311 data visualizations](./004_assignment1-parks.md)
+#### [ASSIGNMENT 1: 311 data visualizations](./004_assignment1-parks.md)
 
 #### [Dashboard fail](./003_dashboardfails.md)
 
