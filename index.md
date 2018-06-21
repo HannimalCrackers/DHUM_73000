@@ -12,7 +12,7 @@
 
 #### [- Dashboard success](./005_dashboardsuccess.md)
 
-#### [- ASSIGNMENT 1: 311 data visualizations](./004_assignment1-parks.md)
+#### [ASSIGNMENT 1: 311 data visualizations](./004_assignment1-parks.md)
 
 #### [- Dashboard fail](./003_dashboardfails.md)
 
