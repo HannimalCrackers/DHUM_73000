@@ -20,7 +20,7 @@ Below is a segmented bar chart showing the locations I tagged at least three tim
 
 In this visualization I was experimenting with incorporating the images of my Instagram posts into Tableau. The images are embedded into the tooltips, so that when one hovers over a section of the bar chart the relevant image is displayed. 
 
-  {% include aidash-locations.html %}
+  {% include aidash-locations-preso.html %}
   
   &nbsp; &nbsp; 
   
