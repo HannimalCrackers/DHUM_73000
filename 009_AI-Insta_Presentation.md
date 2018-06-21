@@ -1,7 +1,8 @@
 
 # Data is in the Eye of the Beholder: 
-#### An Instagram Image Exploration and AI Analysis
+**An Instagram Image Exploration and AI Analysis
 
+  &nbsp; &nbsp; 
 
 
 ## Introduction
