@@ -44,7 +44,7 @@ There is a degree of subjectivity in labeling, and my labels are not inherently 
 
 The images below are currently static. I will be working to present this content in a more interactive way by the time of our crit on Thursday.
   
-  {% include aidash-static.html %} 
+  {% include aistatic-labels.html %} 
 
 
 
