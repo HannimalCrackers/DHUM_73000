@@ -16,9 +16,9 @@ To explore this question I downloaded my personal photos and data from Instagram
   
 ## Visualization A: Top Locations Bar Chart with Images in Tooltip
 
-Below is a segmented bar chart showing the locations I tagged at least three times in my 50 most recent posts. 14 records did not have location data, so they were excluded. Three of the four categories in the visualization below are in Iceland (I vacationed there in March), but I preferred to keep them separate as the content was quite distinct between them. The fourth location is the library at John Jay College of Criminal Justice, which is one of my favorite places in NYC.
+Below is a segmented bar chart showing the locations I tagged at least three times in my 50 most recent posts. 14 records did not have location data, so they were excluded. Three of the four categories in the visualization below are in Iceland (I vacationed there in March), but I preferred to keep them separate as the content was quite distinct between them. The fourth location is the library at John Jay College of Criminal Justice, which is one of my favorite places in NYC. In this visualization I was experimenting with incorporating the images of my Instagram posts into Tableau. 
 
-In this visualization I was experimenting with incorporating the images of my Instagram posts into Tableau. The images are embedded into the tooltips, so that when one hovers over a section of the bar chart the relevant image is displayed. 
+User note: hover over a section of the bar chart to see the relevant image displayed. 
 
   {% include aidash-locations-preso.html %}
   
@@ -46,7 +46,9 @@ User notes: more commonly used words appear larger and darker. Hover over words 
   
 ## Visualization C: Select Images Comparing AI Labels vs My Labels
 
-There is a degree of subjectivity in labeling, and my labels are not inherently correct. Still, it's interesting to more closely examine exactly what the AI and I chose for each image. Below is a sampling of images with Vision's top five labels and my own five labels shown alongside. In some instances our labeling was closely aligned. In others, Vision made clear errors or failed to identify the main subject matter. Vision did not always return at least five labels. In one instance shown below it did not venture any labels at all. The images below are static.
+There is a degree of subjectivity in labeling, and my labels are not inherently correct. Still, it's interesting to more closely examine exactly what the AI and I chose for each image. Below is a sampling of images with Vision's top five labels and my own five labels shown alongside. In some instances our labeling was closely aligned. In others, Vision made clear errors or failed to identify the main subject matter. Vision did not always return at least five labels. In one instance shown below it did not venture any labels at all.
+
+User note: the images below are static.
   
   {% include aistatic-labels.html %} 
 
