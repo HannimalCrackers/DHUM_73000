@@ -10,9 +10,16 @@ In this project I explore my 50 most recent Instagram posts (excluding selfies) 
 To explore this question I downloaded my personal photos and data from Instagram. My data prep is detailed (messily) in this supplemental post: [Work in progress](./007_workinprogress.md). Data prep will be more cleanly detailed in my upcoming white paper, to be published on this blog by June 25, 2018.
 
   &nbsp; &nbsp; 
-  
-  {% include aistatic-beholder.html %}
 
+
+## Data is in the eye of the beholder
+
+  {% include aistatic-beholder.html %}
+  
+(That thing is a Dungeons & Dragons monster called a beholder)  
+
+  &nbsp; &nbsp; 
+  
   
 ## Visualization A: Top Locations Bar Chart with Images in Tooltip
 
