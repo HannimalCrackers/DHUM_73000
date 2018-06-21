@@ -29,9 +29,9 @@ In this visualization I was experimenting with incorporating the images of my In
 
 I was curious about the capability of an artificial intelligence to assign appropriate labels to images. To explore this, I uploaded my 50 most recent images to a bucket in Google Cloud, then used the Interactive API embedded on a Google webpage to run each image one by one through the Google Vision AI and copied the labels it returned into a spreadsheet. Separately, I selected five labels myself for each image. 
 
-I then created word clouds to compare the labels the AI came up with to labels I assigned. As shown below, the AI and I agreed that I often take photos of architecture, sky and water. There was very little overlap, however, otherwise.
+I then created word clouds to compare the labels the AI came up with to labels I assigned. As shown below, the AI and I agreed that I often take photos of architecture, sky and water. There was very little overlap, however, otherwise. All word clouds show only labels used twice or more.
 
-User note: more commonly used words appear larger and darker.
+User notes: more commonly used words appear larger and darker. Hover over words to see how many times they were used as labels. 
 
  {% include aidash-clouds-preso.html %} 
  
