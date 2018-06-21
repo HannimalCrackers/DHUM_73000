@@ -1,6 +1,5 @@
 
-# Data is in the Eye of the Beholder
-An Instagram Image Exploration and AI Analysis
+# An Instagram Image Exploration and AI Analysis
 
   &nbsp; &nbsp; 
 
@@ -14,7 +13,7 @@ To explore this question I downloaded my personal photos and data from Instagram
   &nbsp; &nbsp; 
 
 
-## Data is in the eye of the beholder
+## Data exists in the eye of the beholder
 
 And beholders have many eyes
 {% include aistatic-beholder.html %}
