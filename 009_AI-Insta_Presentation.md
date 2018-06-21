@@ -25,7 +25,7 @@ In this visualization I was experimenting with incorporating the images of my In
   &nbsp; &nbsp; 
   
 
-## Visualizations B & C: Word Cloud Comparison of AI Labels vs My Labels
+## Visualizations B & C: Word Clouds of AI Labels vs My Labels
 
 I was curious about the capability of an artificial intelligence to assign appropriate labels to images. To explore this, I uploaded my 50 most recent images to a bucket in Google Cloud, then used the Interactive API embedded on a Google webpage to run each image one by one through the Google Vision AI and copied the labels it returned into a spreadsheet. Separately, I selected five labels myself for each image. 
 
