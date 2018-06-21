@@ -11,6 +11,9 @@ To explore this question I downloaded my personal photos and data from Instagram
 
   &nbsp; &nbsp; 
   
+  {% include aistatic-beholder.html %}
+
+  
 ## Visualization A: Top Locations Bar Chart with Images in Tooltip
 
 Below is a segmented bar chart showing the locations I tagged at least three times in my 50 most recent posts. 14 records did not have location data, so they were excluded. Three of the four categories in the visualization below are in Iceland (I vacationed there in March), but I preferred to keep them separate as the content was quite distinct between them. The fourth location is the library at John Jay College of Criminal Justice, which is one of my favorite places in NYC.
