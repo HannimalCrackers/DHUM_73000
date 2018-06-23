@@ -60,10 +60,27 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 >>> print("".join(reversed(Duvel)))
 #### enihsnus egnaro elttiL
 
+&nbsp;
 
+>>> SpaciousDuvel = ("  ".join(Duvel))
+>>> print(SpaciousDuvel)
+#### L  i  t  t  l  e     o  r  a  n  g  e     s  u  n  s  h  i  n  e
 
+ &nbsp;
  
- &nbsp; &nbsp;
+>>> print(" ; ".join(["Earnest", "Extra Kitty" , "Duvel"]))
+### Earnest ; Extra Kitty ; Duvel
+
+&nbsp; &nbsp;
+
+>>> Duvel = "Little orange sunshine"
+>>> print (Duvel.split())
+#### ['Little', 'orange', 'sunshine']
+>>> NewList = (Duvel.split())
+>>> print (NewList)
+#### ['Little', 'orange', 'sunshine']
+>>> print (" ; ".join(NewList))
+#### Little ; orange ; sunshine
 
 
 ## Something going wrong here with the line breaks
