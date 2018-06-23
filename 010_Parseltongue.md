@@ -50,12 +50,25 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 >>> print (len(Earnest))
 #### 52
 
- 
+&nbsp;
+
+>>> Duvel = "Little orange sunshine"
+>>> " ".join(Duvel)
+#### 'L i t t l e   o r a n g e   s u n s h i n e'
+
+&nbsp;
+
+>>> print("".join(reversed(Duvel)))
+enihsnus egnaro elttiL
+
+
+
  
  &nbsp; &nbsp;
 
 
 ## Something going wrong here with the line breaks
+&nbsp;
 
 >>> '''
 ... As the wise Ralph said
