@@ -37,6 +37,24 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 >>> print ("Duvel " * 3)
 #### Duvel Duvel Duvel 
 
+
+## Something going wrong here with the line breaks
+
+>>> '''
+... As the wise Ralph said
+... My cats breath smells like cat food
+... This was a haiku
+... '''
+'\nAs the wise Ralph said\nMy cats breath smells like cat food\nThis was a haiku\n'
+>>> """
+... As the wise Ralph said 
+... My cat's breath smells like cat food 
+... This was a haiku
+... """
+"\nAs the wise Ralph said \nMy cat's breath smells like cat food \nThis was a haiku\n"
+>>> 
+
+
 &nbsp; &nbsp; &nbsp; &nbsp;
   
 
