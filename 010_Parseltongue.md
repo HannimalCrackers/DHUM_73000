@@ -59,7 +59,7 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 &nbsp;
 
 >>> print("".join(reversed(Duvel)))
-enihsnus egnaro elttiL
+#### enihsnus egnaro elttiL
 
 
 
