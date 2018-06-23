@@ -41,7 +41,7 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 
 >>> ss = "Extra Kitty"
 >>> print(ss.upper())
-EXTRA KITTY
+#### EXTRA KITTY
 
  &nbsp; &nbsp;
  
@@ -53,13 +53,16 @@ EXTRA KITTY
 ... My cats breath smells like cat food
 ... This was a haiku
 ... '''
-'\nAs the wise Ralph said\nMy cats breath smells like cat food\nThis was a haiku\n'
+#### '\nAs the wise Ralph said\nMy cats breath smells like cat food\nThis was a haiku\n'
+
+&nbsp;
+
 >>> """
 ... As the wise Ralph said 
 ... My cat's breath smells like cat food 
 ... This was a haiku
 ... """
-"\nAs the wise Ralph said \nMy cat's breath smells like cat food \nThis was a haiku\n"
+#### "\nAs the wise Ralph said \nMy cat's breath smells like cat food \nThis was a haiku\n"
 >>> 
 
 &nbsp;
