@@ -83,6 +83,13 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 #### Little ; orange ; sunshine
 
 
+
+
+
+# Things to be learned
+
+&nbsp;
+
 ## Something going wrong here with the line breaks
 &nbsp;
 
@@ -92,20 +99,25 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 ... This was a haiku
 ... '''
 #### '\nAs the wise Ralph said\nMy cats breath smells like cat food\nThis was a haiku\n'
-
-&nbsp;
-
->>> """
-... As the wise Ralph said 
-... My cat's breath smells like cat food 
-... This was a haiku
-... """
-#### "\nAs the wise Ralph said \nMy cat's breath smells like cat food \nThis was a haiku\n"
->>> 
-
 &nbsp;
 
 I don't understand **line breaks and escape characters**. Research later.
+
+&nbsp; &nbsp; 
+
+## Learn how to call values from dictionaries
+
+>>> MyColor = {'name': 'seafoam blue', 'hex': '89BBBC'}
+>>> print(MyColor.hex)
+#### Traceback (most recent call last):
+#### File "<stdin>", line 1, in <module>
+#### AttributeError: 'dict' object has no attribute 'hex'
+>>> print(hex.MyColor)
+ 
+#### Traceback (most recent call last):
+#### File "<stdin>", line 1, in <module>
+#### AttributeError: 'builtin_function_or_method' object has no attribute 'MyColor'
+>>> 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
   
