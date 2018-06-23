@@ -1,6 +1,8 @@
 # Adventures in parseltongue
 
+Hmmm, markdown is interacting with my copy/paste Python from Terminal
 
+&nbsp; &nbsp; &nbsp; &nbsp;
 
 ## Mathing with pet names
 
@@ -20,6 +22,7 @@
 
 >>> print("Duvel" + "Bear")
 #### DuvelBear
+
 >>> print ("Duvel " + "Bear")
 #### Duvel Bear
 
