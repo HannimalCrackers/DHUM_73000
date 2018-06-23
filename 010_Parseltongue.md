@@ -45,7 +45,6 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 
  &nbsp;
  
- EXTRA KITY
 >>> Earnest = "I'm going to eat too fast and puke and then eat that"
 >>> print (len(Earnest))
 #### 52
