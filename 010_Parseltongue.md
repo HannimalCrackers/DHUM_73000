@@ -37,6 +37,14 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 >>> print ("Duvel " * 3)
 #### Duvel Duvel Duvel 
 
+&nbsp;
+
+>>> ss = "Extra Kitty"
+>>> print(ss.upper())
+EXTRA KITTY
+
+ &nbsp; &nbsp;
+ 
 
 ## Something going wrong here with the line breaks
 
@@ -54,6 +62,9 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 "\nAs the wise Ralph said \nMy cat's breath smells like cat food \nThis was a haiku\n"
 >>> 
 
+&nbsp;
+
+I don't understand **line breaks and escape characters**. Research later.
 
 &nbsp; &nbsp; &nbsp; &nbsp;
   
