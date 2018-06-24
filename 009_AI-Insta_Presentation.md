@@ -1,5 +1,5 @@
 
-# An Instagram Image Exploration and AI Analysis
+# Instagram Image Exploration and AI Analysis: Presentation
 
   &nbsp; &nbsp; 
 
