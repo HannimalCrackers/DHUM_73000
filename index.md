@@ -1,8 +1,8 @@
 #### Hello world &nbsp; &nbsp; :/
 
-## [FINAL PROJECT: AI image labeling, white paper](./011_AI-Insta_WhitePaper.md)
+#### [Parseltongue](./011_Parseltongue.md)
 
-#### [Parseltongue](./010_Parseltongue.md)
+## [FINAL PROJECT: AI image labeling, white paper](./010_AI-Insta_WhitePaper.md)
 
 #### [&nbsp; &nbsp; Final project: AI image labeling, presentation](./009_AI-Insta_Presentation.md)
 
