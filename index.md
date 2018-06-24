@@ -4,9 +4,9 @@
 
 #### [Parseltongue](./010_Parseltongue.md)
 
-#### [  Final project: AI image labeling, presentation](./009_AI-Insta_Presentation.md)
+#### [&nbsp; Final project: AI image labeling, presentation](./009_AI-Insta_Presentation.md)
 
-#### [  Final project: AI image labeling, draft 1](./008_AI-Insta_Draft1.md)
+#### [&nbsp; &nbsp; Final project: AI image labeling, draft 1](./008_AI-Insta_Draft1.md)
 
 #### [  Work in progress](./007_workinprogress.md)
 
