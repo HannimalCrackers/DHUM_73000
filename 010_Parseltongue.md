@@ -66,11 +66,6 @@ Markdown is interacting with my copy/paste Python from Terminal. Having to manua
 
 &nbsp;
 
->>> SpaciousDuvel = ("  ".join(Duvel)) <br>
->>> print (SpaciousDuvel)
-#### L  i  t  t  l  e     o  r  a  n  g  e     s  u  n  s  h  i  n  e
-
- &nbsp;
  
 >>> print(" ; ".join(["Earnest", "Extra Kitty" , "Duvel"]))
 #### Earnest ; Extra Kitty ; Duvel
