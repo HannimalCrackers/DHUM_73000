@@ -7,7 +7,8 @@
 Lorem ipsum
   
   
-  
+The download package contained multiple JSON files and subfolders with the posted photos and videos.
+
 ![screenshot](https://raw.githubusercontent.com/HannimalCrackers/DHUM_73000/master/img/Instagram_download.png)
 
   
