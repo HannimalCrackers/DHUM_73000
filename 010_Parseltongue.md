@@ -4,7 +4,7 @@ I am determined to learn Python.
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-Markdown is interacting with my copy/paste Python from Terminal. Input line breaks getting lost.
+Markdown is interacting with my copy/paste Python from Terminal. Having to manually insert input line breaks. Some may be missing.
 
 &nbsp; &nbsp;
 
@@ -18,7 +18,7 @@ Markdown is interacting with my copy/paste Python from Terminal. Input line brea
 
 &nbsp;
 
->>> Earnest = 5 < 8
+>>> Earnest = 5 < 8 <br>
 >>> print (Earnest)
 #### True
 
@@ -32,7 +32,7 @@ Markdown is interacting with my copy/paste Python from Terminal. Input line brea
 
 &nbsp;
 
->>> ExtraKitty = 100
+>>> ExtraKitty = 100 <br>
 >>> print (ExtraKitty > 6)
 #### True
 
@@ -43,19 +43,19 @@ Markdown is interacting with my copy/paste Python from Terminal. Input line brea
 
 &nbsp;
 
->>> ss = "Extra Kitty"
+>>> ss = "Extra Kitty" <br>
 >>> print(ss.upper())
 #### EXTRA KITTY
 
  &nbsp;
  
->>> Earnest = "I'm going to eat too fast and puke and then eat that"
+>>> Earnest = "I'm going to eat too fast and puke and then eat that" <br>
 >>> print (len(Earnest))
 #### 52
 
 &nbsp;
 
->>> Duvel = "Little orange sunshine"
+>>> Duvel = "Little orange sunshine" <br>
 >>> " ".join(Duvel)
 #### 'L i t t l e   o r a n g e   s u n s h i n e'
 
@@ -66,7 +66,7 @@ Markdown is interacting with my copy/paste Python from Terminal. Input line brea
 
 &nbsp;
 
->>> SpaciousDuvel = ("  ".join(Duvel))
+>>> SpaciousDuvel = ("  ".join(Duvel)) <br>
 >>> print (SpaciousDuvel)
 #### L  i  t  t  l  e     o  r  a  n  g  e     s  u  n  s  h  i  n  e
 
@@ -77,7 +77,7 @@ Markdown is interacting with my copy/paste Python from Terminal. Input line brea
 
 &nbsp; 
 
->>> Duvel = "Little orange sunshine"
+>>> Duvel = "Little orange sunshine" <br>
 >>> print (Duvel.split())
 #### ['Little', 'orange', 'sunshine']
 >>> NewList = (Duvel.split())
@@ -89,7 +89,7 @@ Markdown is interacting with my copy/paste Python from Terminal. Input line brea
 
 &nbsp;
 
->>> name, hex = "Seafoam Blue", "89BBBC"
+>>> name, hex = "Seafoam Blue", "89BBBC" <br>
 >>> print (name)
 #### Seafoam Blue
 >>> print (hex)
@@ -99,7 +99,7 @@ Markdown is interacting with my copy/paste Python from Terminal. Input line brea
 
 &nbsp; 
 
->>> x = "Earnest loves {} and {}."
+>>> x = "Earnest loves {} and {}." <br>
 >>> print(x.format("treats","hugs"))
 #### Earnest loves treats and hugs.
 
@@ -112,10 +112,10 @@ Markdown is interacting with my copy/paste Python from Terminal. Input line brea
 ## Something going wrong here with the line breaks
 &nbsp;
 
->>> '''
-... As the wise Ralph said
-... My cats breath smells like cat food
-... This was a haiku
+>>> ''' <br>
+... As the wise Ralph said <br>
+... My cats breath smells like cat food <br>
+... This was a haiku <br>
 ... '''
 #### '\nAs the wise Ralph said\nMy cats breath smells like cat food\nThis was a haiku\n'
 &nbsp;
@@ -126,11 +126,11 @@ I don't understand **line breaks and escape characters**. Research later.
 
 ## Learn how to call values from dictionaries
 
->>> MyColor = {'name': 'seafoam blue', 'hex': '89BBBC'}
+>>> MyColor = {'name': 'seafoam blue', 'hex': '89BBBC'} <br>
 >>> print(MyColor.hex)
 #### Traceback (most recent call last):
 #### File "<stdin>", line 1, in <module>
-#### AttributeError: 'dict' object has no attribute 'hex'
+#### AttributeError: 'dict' object has no attribute 'hex' <br>
 >>> print(hex.MyColor)
  
 #### Traceback (most recent call last):
