@@ -69,7 +69,7 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
  &nbsp;
  
 >>> print(" ; ".join(["Earnest", "Extra Kitty" , "Duvel"]))
-### Earnest ; Extra Kitty ; Duvel
+#### Earnest ; Extra Kitty ; Duvel
 
 &nbsp; 
 
@@ -93,9 +93,13 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 >>> print ("#" + hex)
 #### #89BBBC
 
+&nbsp; 
+
+>>> x = "Earnest loves {} and {}."
+>>> print(x.format("treats","hugs"))
+#### Earnest loves treats and hugs.
+
 &nbsp; &nbsp;
-
-
 
 # Things to be learned
 
