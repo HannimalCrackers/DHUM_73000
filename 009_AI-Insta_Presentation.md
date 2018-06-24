@@ -1,5 +1,6 @@
 
-# Instagram Image Exploration and AI Analysis: Presentation
+# Instagram Image Exploration and AI Analysis
+#### Presentation
 
   &nbsp; &nbsp; 
 
