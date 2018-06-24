@@ -30,7 +30,7 @@ Below is a segmented bar chart showing the locations I tagged at least three tim
 
 User note: hover over a section of the bar chart to see the relevant image displayed. 
 
-  {% include aidash-locations-preso.html %}
+  {% include aidash-locations.html %}
   
   &nbsp; &nbsp; 
   
@@ -47,7 +47,7 @@ User notes: more commonly used words appear larger and darker. Hover over words 
 
  {% include aidash-clouds-combined.html %} 
 
- {% include aidash-clouds-v2.html %} 
+ {% include aidash-clouds.html %} 
  
 
   
