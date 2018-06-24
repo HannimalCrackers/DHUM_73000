@@ -1,6 +1,6 @@
 
 # Instagram Image Exploration and AI Analysis
-### Draft 1
+# Draft 1
 
 
 
