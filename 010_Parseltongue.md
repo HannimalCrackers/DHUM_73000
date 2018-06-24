@@ -75,9 +75,11 @@ Markdown is interacting with my copy/paste Python from Terminal. Having to manua
 >>> Duvel = "Little orange sunshine" <br>
 >>> print (Duvel.split())
 #### ['Little', 'orange', 'sunshine']
+&nbsp;
 >>> NewList = (Duvel.split())
 >>> print (NewList)
 #### ['Little', 'orange', 'sunshine']
+&nbsp;
 >>> print (" ; ".join(NewList))
 #### Little ; orange ; sunshine
 
