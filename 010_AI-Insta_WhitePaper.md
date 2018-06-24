@@ -7,9 +7,24 @@
 Lorem ipsum
   
   
-  {% include aistatic-beholder.html %} 
+  {% include aidash-locations-preso.html %}
 
+  &nbsp; &nbsp; &nbsp; &nbsp;
+ 
+ 
+  {% include aidash-clouds-combined.html %} 
 
+  {% include aidash-clouds-preso.html %} 
+ 
+  &nbsp; &nbsp; &nbsp; &nbsp;
+  
+  
+  {% include aidash-labelbar.html %} 
+  
+  &nbsp; &nbsp; &nbsp; &nbsp;
+
+  
+  {% include aistatic-labels.html %} 
 
   &nbsp; &nbsp; &nbsp; &nbsp;
   
