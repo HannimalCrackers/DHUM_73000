@@ -45,9 +45,20 @@ User note: hover over a section of the bar chart to see images displayed.
 
   {% include aidash-locations.html %}
 
-  &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; 
  
- 
+## Setup for Artificial Intelligence (AI) Image Analysis
+
+My second aim was to see how an AI would interpret the content of my image set and compare it to my own interpretation. There are multiple publicly accessible AIs available, some of which provide a certain number of searches for free. I chose to use Google Vision. Other image recognition AIs that would have also suited my purpose include Clarifai and Amazon’s Rekognition.
+I created a Google Cloud account and uploaded my image set into a “bucket”, which is Google Cloud’s storage and organizational construct. I had expected to process all 50 of my images as a batch, but that functionality required scripting to interface with the Google Cloud API. I explored doing so but was unsuccessful. Google does make an [embedded API](https://cloud.google.com/vision/docs/quickstart) embedded API available on a webpage. I pointed this embedded API to each of my images, one at a time, to get the Google Vision AI to analyze the image content. I copy/pasted the top five label results for each image into a spreadsheet. 
+
+Separately, I created five labels of my own for each image and put those into the spreadsheet as well.
+
+
+## Visualizations B & C: Word Clouds of AI Labels vs My Labels
+
+ &nbsp; &nbsp; &nbsp; &nbsp;
+
   {% include aidash-clouds-combined.html %} 
 
   {% include aidash-clouds.html %} 
