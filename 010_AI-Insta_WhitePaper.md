@@ -5,8 +5,7 @@
 
 ## Introduction
 
-In this project I explore my recent Instagrams using tooltip images in Tableau, and then delve into the research question, how do the results of AI image analysis correspond or differ from my own assignation of labels to my own Instagram photos? Audiences for this analysis are myself, as I like my photos and enjoy working with them, along with those who are interested in the inclusion of imagery in Tableau or the current state of AI assisted image analysis.
-To explore this question I downloaded my personal photos and data from Instagram using their recently implemented Data Download tool.
+This project had two goals. First, I explored methods for including images in Tableau, so that visualizations about Instagram or other image data could include the relevant visual reference. Second, I delved into the research question, how do the results of AI image analysis correspond or differ from my own assignation of labels to my own Instagram photos? Audiences for this analysis are myself, as I like my photos and enjoy working with them, along with those who are interested in the inclusion of imagery in Tableau or the current state of AI assisted image analysis.
 
 
 &nbsp;
@@ -14,7 +13,7 @@ To explore this question I downloaded my personal photos and data from Instagram
 
 ## Data Source
 
-Instagram only recently began making users’ personal data available to them. It did so in order to be compliant with the European Union’s GDPR privacy law which went into effect May 25, 2018. Users may now easily download a package of their personal user data. The data package I downloaded contained multiple JSON files along with subfolders for photos and videos, as shown in the visual below. Photos were in jpeg format, videos were MP4s – both easily accessible formats.
+To explore this question I downloaded my personal photos and data from Instagram using their recently implemented Data Download tool. Instagram only recently began making users’ personal data available to them. It did so in order to be compliant with the European Union’s GDPR privacy law which went into effect May 25, 2018. Users may now easily download a package of their personal user data. The data package I downloaded contained multiple JSON files along with subfolders for photos and videos, as shown in the visual below. Photos were in jpeg format, videos were MP4s – both easily accessible formats.
 
 &nbsp;
 ![screenshot](https://raw.githubusercontent.com/HannimalCrackers/DHUM_73000/master/img/Instagram_download.png)
@@ -37,7 +36,9 @@ The field giving date and time of the post came in as string. I converted it to 
 
 ## Visualization A: Top Locations Bar Chart with Images in Tooltip
 
-Below is a segmented bar chart showing locations or regions I tagged at least twice times in my 50 most recent posts. 14 records did not have location data, so they were excluded. Three of the four categories in the visualization below are in Iceland (I vacationed there in March), but I preferred to keep them separate rather than lumping them into one large “Iceland” category as that would have made the bar chart imbalanced and hard to read. The non-Icelandic location is the Lloyd Sealy Library at John Jay College of Criminal Justice, where I recently finished a bachelor’s degree. In this visualization I was experimenting with incorporating the images of my Instagram posts into Tableau. Including images in the tooltips makes the visualization more engaging and provides a richer experience than descriptive words or metadata alone.
+Visualization A: Top Locations Bar Chart with Images in Tooltip
+I was able to accomplish my first aim by embedding images in the Tableau tooltips, as I have done in the segmented bar chart below. This chart shows locations or regions I tagged at least twice times in my 50 most recent posts. 14 records did not have location data, so they were excluded. Three of the four categories in the visualization below are in Iceland (I vacationed there in March), but I preferred to keep them separate rather than lumping them into one large “Iceland” category as that would have made the bar chart imbalanced and hard to read. The non-Icelandic location is the Lloyd Sealy Library at John Jay College of Criminal Justice, where I recently finished a bachelor’s degree. 
+Including images in the tooltips makes the visualization more engaging and provides a richer experience than descriptive words or metadata alone.
 User note: hover over a section of the bar chart to see images displayed.
 
 &nbsp;
