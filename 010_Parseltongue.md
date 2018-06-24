@@ -4,7 +4,7 @@ I am determined to learn Python.
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-Markdown is interacting with my copy/paste Python from Terminal
+Markdown is interacting with my copy/paste Python from Terminal. Input line breaks getting lost.
 
 &nbsp; &nbsp;
 
