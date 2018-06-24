@@ -8,7 +8,7 @@ Lorem ipsum
   
   
   
-![git](DHUM_73000/img/Instagram_download.png)
+![screenshot](https://raw.githubusercontent.com/HannimalCrackers/DHUM_73000/master/img/Instagram_download.png)
 
   
   {% include aidash-locations.html %}
