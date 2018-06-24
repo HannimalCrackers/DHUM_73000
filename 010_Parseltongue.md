@@ -12,7 +12,7 @@ Markdown is interacting with my copy/paste Python from Terminal
 
 &nbsp; &nbsp;
 
->>> Earnest = 10000
+>>> Earnest = 10000 <br>
 >>> print(Earnest)
 #### 10000
 
