@@ -1,6 +1,6 @@
 #### Hello world &nbsp; &nbsp; :/
 
-#### [&nbsp; &nbsp; Parseltongue](./011_Parseltongue.md)
+#### [&nbsp; &nbsp; Parseltongue (to be moved to new blog)](./011_Parseltongue.md)
 
 ## [FINAL PROJECT: AI image labeling, white paper](./010_AI-Insta_WhitePaper.md)
 
