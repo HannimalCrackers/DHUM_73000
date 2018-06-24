@@ -63,7 +63,7 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 &nbsp;
 
 >>> SpaciousDuvel = ("  ".join(Duvel))
->>> print(SpaciousDuvel)
+>>> print (SpaciousDuvel)
 #### L  i  t  t  l  e     o  r  a  n  g  e     s  u  n  s  h  i  n  e
 
  &nbsp;
