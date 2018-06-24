@@ -71,7 +71,7 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 >>> print(" ; ".join(["Earnest", "Extra Kitty" , "Duvel"]))
 ### Earnest ; Extra Kitty ; Duvel
 
-&nbsp; &nbsp;
+&nbsp; 
 
 >>> Duvel = "Little orange sunshine"
 >>> print (Duvel.split())
@@ -84,7 +84,16 @@ Hmmm, markdown is interacting with my copy/paste Python from Terminal
 
 
 &nbsp;
-&nbsp;
+
+>>> name, hex = "Seafoam Blue", "89BBBC"
+>>> print (name)
+#### Seafoam Blue
+>>> print (hex)
+#### 89BBBC
+>>> print ("#" + hex)
+#### #89BBBC
+
+&nbsp; &nbsp;
 
 
 
