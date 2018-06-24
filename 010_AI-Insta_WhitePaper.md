@@ -43,7 +43,7 @@ I was able to accomplish my first aim by embedding images in the Tableau tooltip
 
 Including images in the tooltips makes the visualization more engaging and provides a richer experience than descriptive words or metadata alone.
 
-User note: hover over a section of the bar chart to see images displayed.
+User note: hover over a section of the bar chart to see images displayed. Images may take a few seconds to load.
 
 &nbsp;
 
