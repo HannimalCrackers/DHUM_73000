@@ -7,14 +7,14 @@
 Lorem ipsum
   
   
-  {% include aidash-locations-preso.html %}
+  {% include aidash-locations.html %}
 
   &nbsp; &nbsp; &nbsp; &nbsp;
  
  
   {% include aidash-clouds-combined.html %} 
 
-  {% include aidash-clouds-preso.html %} 
+  {% include aidash-clouds.html %} 
  
   &nbsp; &nbsp; &nbsp; &nbsp;
   
