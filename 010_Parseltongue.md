@@ -1,8 +1,12 @@
 # Adventures in parseltongue
 
-Hmmm, markdown is interacting with my copy/paste Python from Terminal
+I am determined to learn Python.
 
 &nbsp; &nbsp; &nbsp; &nbsp;
+
+Markdown is interacting with my copy/paste Python from Terminal
+
+&nbsp; &nbsp;
 
 ## Mathing with pet names
 
