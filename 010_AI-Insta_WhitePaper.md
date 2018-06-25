@@ -43,12 +43,10 @@ I was able to accomplish my first aim by embedding images in the Tableau tooltip
 
 Including images in the tooltips makes the visualization more engaging and provides a richer experience than descriptive words or metadata alone.
 
-User note: hover over a section of the bar chart to see images displayed. Images may take a few seconds to load.
+*User notes: hover over a section of the bar chart to see images displayed. Images may take a few seconds to load.
 
 &nbsp;
-
   {% include aidash-locations.html %}
-
 &nbsp; 
  
 ## Setup for Artificial Intelligence (AI) Image Analysis
@@ -59,18 +57,31 @@ I created a Google Cloud account and uploaded my image set into a “bucket”, 
 Separately, I created five labels of my own for each image and put those into the spreadsheet as well.
 
 
-## Visualizations B & C: Word Clouds of AI Labels vs My Labels
+## Visualization B: Word Clouds of AI Labels vs My Labels
 
- &nbsp; &nbsp; &nbsp; &nbsp;
+Word clouds make it easy to pick out which labels were most often applied to my images by the Google Vision AI and which were most often applied by me. To reduce clutter, I chose to show only labels that were applied twice or more.
+We can quickly see that the word “architecture” is prominent in both clouds, signaling agreement between me and Google Vision that I post a proportionally large number of photos to Instagram that depict architecture. Other labels we both applied often are “water” and “sky”.
+The word clouds are also useful for identifying broad differences. I used proper location names as labels frequently, whereas Google Vision never did. My word cloud contains fewer items overall, indicating that I used a higher number of distinct labels, as a label must have been used at least twice to appear in the cloud.
 
-  {% include aidash-clouds-combined.html %} 
+*User notes: more commonly used words appear larger and darker. Hover over words to see how many times they were used as labels.
 
+&nbsp;
   {% include aidash-clouds.html %} 
+&nbsp;
+
+
+## Visualization C: Bar Chart of Label Use by Source
+
+Lorem ipsum
+
+
+&nbsp; 
+  {% include aidash-clouds.html %} 
+&nbsp; 
+
+
  
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  
-  
-  {% include aidash-labelbar.html %} 
+
   
   &nbsp; &nbsp; &nbsp; &nbsp;
 
