@@ -72,23 +72,30 @@ The word clouds are also useful for identifying broad differences. I used proper
 &nbsp;
 
 
-## Visualization C: Bar Chart of Label Use by Source
+## Visualization C: Bar Chart Comparing Label Use by Source
 
-Lorem ipsum
+I had initially approached showing Google Vision and my label results together with a combined word cloud but it was not as easy to identify commonalities in the combined cloud as I hoped, even with the results coded by color (which I did eventually figure out).
+This bar chart does a much better job showing what label use we had in common and to what degree we each used them, along with which labels were exclusive to either Google Vision or myself. 
 
+Sorting the labels alphabetically reveals Google Vision pulls disparate regional English spellings. It labeled one image with both “jewellry” and “jewelry making.” Other terms appear which are not commonly used in American English, such as “nunatak” and “loch”, while Google Vision also uses the very American slang “bling bling”.
+
+*User note: labels can be sorted alphabetically by hovering over the column header and then clicking the dropdown that appears.
 
 &nbsp; 
   {% include aidash-labelbar.html %} 
 &nbsp; 
 
 
- 
+## Visualization D: Single Image Details
 
-  
-  &nbsp; &nbsp; &nbsp; &nbsp;
+There is a high degree of subjectivity in labeling, and my labels are not inherently correct. Still, it’s interesting to more closely examine exactly what the AI and I chose for each image. Below is a sampling of images with Vision’s top five labels and my own five labels shown alongside. In some instances our labeling was closely aligned. In others, Vision made clear errors or failed to identify the main subject matter. Vision did not always return at least five labels. In one instance shown below it did not venture any labels at all.
 
+*User note: the images below are static.
   
   {% include aistatic-labels.html %} 
+  
+&nbsp;  
+  
 
   &nbsp; &nbsp; &nbsp; &nbsp;
   
