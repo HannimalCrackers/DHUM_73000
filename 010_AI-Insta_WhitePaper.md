@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This project had two goals. First, I explored methods for including images in Tableau, so that visualizations about Instagram or other image data could include the relevant visual reference. Second, I delved into the research question, how do the results of AI image analysis correspond or differ from my own assignation of labels to my own Instagram photos? Audiences for this analysis are myself, as I like my photos and enjoy working with them, along with those who are interested in the inclusion of imagery in Tableau or the current state of AI assisted image analysis.
+This project had two goals. First, I explored methods for including images in Tableau. It’s useful for visualizations about image data to include the relevant visual reference. Second, I delved into the research question, how do the results of AI image analysis correspond or differ from my own assignation of labels to my own Instagram photos? Audiences for this analysis are myself, as I like my photos and enjoy working with them, along with those who are interested in the inclusion of imagery in Tableau or the current state of AI assisted image analysis.
 
 
 &nbsp;
