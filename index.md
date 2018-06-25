@@ -1,6 +1,5 @@
 #### Hello world &nbsp; &nbsp; :/
 &nbsp;
-&nbsp;
 
 #### [&nbsp; &nbsp; Parseltongue (to be moved to new blog)](./011_Parseltongue.md)
 
