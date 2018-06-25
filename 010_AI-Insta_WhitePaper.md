@@ -78,7 +78,7 @@ Lorem ipsum
 
 
 &nbsp; 
-  {% include aidash-clouds.html %} 
+  {% include aidash-labelbar.html %} 
 &nbsp; 
 
 
