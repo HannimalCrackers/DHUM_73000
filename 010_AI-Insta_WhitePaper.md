@@ -56,6 +56,8 @@ I created a Google Cloud account and uploaded my image set into a “bucket”, 
 
 Separately, I created five labels of my own for each image and put those into the spreadsheet as well.
 
+&nbsp;
+
 
 ## Visualization B: Word Clouds of AI Labels vs My Labels
 
