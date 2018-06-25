@@ -43,7 +43,7 @@ I was able to accomplish my first aim by embedding images in the Tableau tooltip
 
 Including images in the tooltips makes the visualization more engaging and provides a richer experience than descriptive words or metadata alone.
 
-*User notes: hover over a section of the bar chart to see images displayed. Images may take a few seconds to load.*
+**How to read this chart:** *hover over a section of the bar chart to see the corresponding image displayed. Please note, images may take a few seconds to load.*
 
 &nbsp;
   {% include aidash-locations.html %}
