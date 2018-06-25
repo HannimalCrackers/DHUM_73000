@@ -3,7 +3,7 @@
 
 #### [&nbsp; &nbsp; Parseltongue (to be moved to new blog)](./011_Parseltongue.md)
 
-## [FINAL PROJECT: AI image labeling, white paper](./010_AI-Insta_WhitePaper.md)
+## [FINAL PROJECT: AI IMAGE LABELING, WHITE PAPER](./010_AI-Insta_WhitePaper.md)
 
 #### [&nbsp; &nbsp; Final project: AI image labeling, presentation](./009_AI-Insta_Presentation.md)
 
