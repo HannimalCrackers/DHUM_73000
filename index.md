@@ -2,7 +2,7 @@
 
 #### [&nbsp; &nbsp; Parseltongue (to be moved to new blog)](./011_Parseltongue.md)
 
-## [FINAL PROJECT: AI image labeling, white paper](./010_AI-Insta_WhitePaper.md)
+# [FINAL PROJECT: AI image labeling, white paper](./010_AI-Insta_WhitePaper.md)
 
 #### [&nbsp; &nbsp; Final project: AI image labeling, presentation](./009_AI-Insta_Presentation.md)
 
@@ -10,11 +10,11 @@
 
 #### [&nbsp; &nbsp; Work in progress](./007_workinprogress.md)
 
-#### [ASSIGNMENT 2: quantified self](./006_assignment2-mfp.md)
+#### [&nbsp; &nbsp; ASSIGNMENT 2: quantified self](./006_assignment2-mfp.md)
 
 #### [&nbsp; &nbsp; Dashboard success](./005_dashboardsuccess.md)
 
-#### [ASSIGNMENT 1: 311 data visualizations](./004_assignment1-parks.md)
+#### [&nbsp; &nbsp; ASSIGNMENT 1: 311 data visualizations](./004_assignment1-parks.md)
 
 #### [&nbsp; &nbsp; Dashboard fail](./003_dashboardfails.md)
 
