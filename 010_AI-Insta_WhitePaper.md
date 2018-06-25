@@ -74,8 +74,7 @@ The word clouds are also useful for identifying broad differences. I used proper
 
 ## Visualization C: Bar Chart Comparing Label Use by Source
 
-I had initially approached showing Google Vision and my label results together with a combined word cloud but it was not as easy to identify commonalities in the combined cloud as I hoped, even with the results coded by color (which I did eventually figure out).
-This bar chart does a much better job showing what label use we had in common and to what degree we each used them, along with which labels were exclusive to either Google Vision or myself. 
+I had initially approached showing Google Vision and my label results together with a combined word cloud but it was not as easy to identify commonalities in the combined cloud as I hoped, even with the results coded by color (which I did eventually figure out). The length of each bar indicates how many times the label was used. Bars extend from a center axis, with my labels charted coming out from the left side of the axis and Google Vision’s labels charted coming out from the right side.
 
 Sorting the labels alphabetically reveals Google Vision pulls disparate regional English spellings. It labeled one image with both “jewellry” and “jewelry making.” Other terms appear which are not commonly used in American English, such as “nunatak” and “loch”, while Google Vision also uses the very American slang “bling bling”.
 
