@@ -43,7 +43,7 @@ I was able to accomplish my first aim by embedding images in the Tableau tooltip
 
 Including images in the tooltips makes the visualization more engaging and provides a richer experience than descriptive words or metadata alone.
 
-_**How to read this chart:** hover over a section of the bar chart to see the corresponding image displayed. Please note, images may take a few seconds to load._
+**How to read this chart:** hover over a section of the bar chart to see the corresponding image displayed. Please note, images may take a few seconds to load.
 
 &nbsp;
   {% include aidash-locations.html %}
@@ -65,7 +65,7 @@ Word clouds make it easy to pick out which labels were most often applied to my 
 We can quickly see that the word “architecture” is prominent in both clouds, signaling agreement between me and Google Vision that I post a proportionally large number of photos to Instagram that depict architecture. Other labels we both applied often are “water” and “sky”.
 The word clouds are also useful for identifying broad differences. I used proper location names as labels frequently, whereas Google Vision never did. My word cloud contains fewer items overall, indicating that I used a higher number of distinct labels, as a label must have been used at least twice to appear in the cloud.
 
-_**How to read this chart:** more commonly used words appear larger and darker. Hover over words to see how many times they were used as labels._
+**How to read this chart:** more commonly used words appear larger and darker. Hover over words to see how many times they were used as labels.
 
 &nbsp;
   {% include aidash-clouds.html %} 
@@ -78,7 +78,7 @@ I had initially approached showing Google Vision and my label results together w
 
 Sorting the labels alphabetically reveals Google Vision pulls disparate regional English spellings. It labeled one image with both “jewellry” and “jewelry making.” Other terms appear which are not commonly used in American English, such as “nunatak” and “loch”, while Google Vision also uses the very American slang “bling bling”.
 
-_**How to read this chart:** bar length corresponds with number of times the label was used. Labels can be sorted alphabetically by hovering over the column header and then clicking the dropdown that appears._
+**How to read this chart:** bar length corresponds with number of times the label was used. Labels can be sorted alphabetically by hovering over the column header and then clicking the dropdown that appears.
 
 &nbsp; 
   {% include aidash-labelbar.html %} 
@@ -89,7 +89,7 @@ _**How to read this chart:** bar length corresponds with number of times the lab
 
 There is a high degree of subjectivity in labeling, and my labels are not inherently correct. Still, it’s interesting to more closely examine exactly what the AI and I chose for each image. Below is a sampling of images with Vision’s top five labels and my own five labels shown alongside. In some instances our labeling was closely aligned. In others, Vision made clear errors or failed to identify the main subject matter. Vision did not always return at least five labels. In one instance shown below it did not venture any labels at all.
 
-_**Reader note:** the images below are not interactive content._
+**Reader note:** the images below are not interactive content.
   
   {% include aistatic-labels.html %} 
   
