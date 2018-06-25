@@ -96,6 +96,19 @@ There is a high degree of subjectivity in labeling, and my labels are not inhere
   
 &nbsp;  
   
+  
+## Conclusion and Next Steps
+
+Using my own images allowed me to use my knowledge of the contents to assess Google Vision’s accuracy, particularly in the case of the naturally occurring basalt columns which Google Vision interpreted as a man-made wall in an ancient archeological site. Google Vision overall provided uneven results, with the focus of the picture being completely elided in some instances.
+
+My immediate next step, which I have already started, is to learn Python. For this project it would have been useful to have a script that allowed all of my images to be processed by Google Vision as a batch. I expect that being able to write Python code will come in handy for many other projects as well.
+
+Incorporating hashtag and/or caption data is an area that I would like to explore further. During my data prep phase I split out hashtags for each Instagram image from the captions. My intention was to include the hashtags in the location visualization tooltip. This was thwarted by not being able to include any other information in the tooltip when an image is in there. I would like to explore potential workarounds or other ways to include hashtag information in a visualizations that also displays the source image.
+
+I would also in the future like to have a larger set of images analyzed by Google Vision and to figure out a grouping method for the resulting labels that reveals categorical advantages or disadvantages in either Google Visions or my own labeling execution. 
+
+Lastly, I think my static visualizations convey the information I’m trying to present well, but I would like to replace them with an interactive grid of thumbnails of the images. Clicking on a thumbnail would enlarge the image and also bring up the lists of Google Vision labels and my labels alongside each other for quick comparison.
+
 
   &nbsp; &nbsp; &nbsp; &nbsp;
   
