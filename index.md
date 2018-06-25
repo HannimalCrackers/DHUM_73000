@@ -10,11 +10,11 @@
 
 #### [&nbsp; &nbsp; Work in progress](./007_workinprogress.md)
 
-#### [&nbsp; &nbsp; ASSIGNMENT 2: quantified self](./006_assignment2-mfp.md)
+#### [ASSIGNMENT 2: quantified self](./006_assignment2-mfp.md)
 
 #### [&nbsp; &nbsp; Dashboard success](./005_dashboardsuccess.md)
 
-#### [&nbsp; &nbsp; ASSIGNMENT 1: 311 data visualizations](./004_assignment1-parks.md)
+#### [ASSIGNMENT 1: 311 data visualizations](./004_assignment1-parks.md)
 
 #### [&nbsp; &nbsp; Dashboard fail](./003_dashboardfails.md)
 
