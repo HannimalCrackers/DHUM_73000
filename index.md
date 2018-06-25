@@ -5,9 +5,9 @@
 
 ## [FINAL PROJECT: AI IMAGE LABELING, WHITE PAPER](./010_AI-Insta_WhitePaper.md)
 
-#### [&nbsp; &nbsp; Final project: AI image labeling, presentation](./009_AI-Insta_Presentation.md)
+/* #### [&nbsp; &nbsp; Final project: AI image labeling, presentation](./009_AI-Insta_Presentation.md) */
 
-#### [&nbsp; &nbsp; Final project: AI image labeling, draft 1](./008_AI-Insta_Draft1.md)
+/* #### [&nbsp; &nbsp; Final project: AI image labeling, draft 1](./008_AI-Insta_Draft1.md) */
 
 #### [&nbsp; &nbsp; Work in progress](./007_workinprogress.md)
 
