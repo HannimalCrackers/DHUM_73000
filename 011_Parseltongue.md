@@ -14,9 +14,9 @@ else: <br>
 
 
 #### My first Python script
-name = input("Hello, what is your name? ")
-age = input("Hello again, how old are you? ")
-age = int(age)
+name = input("Hello, what is your name? ") <br>
+age = input("Hello again, how old are you? ") <br>
+age = int(age) <br>
 year = str((100-age)+2018) <br>
 print ("\n") <br>
 print ("Hello, " + name + ". You will be 100 years old this time of year in " + year + ".")
