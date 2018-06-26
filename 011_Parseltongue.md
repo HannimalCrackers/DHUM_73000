@@ -2,14 +2,20 @@
 
 &nbsp;
 
-####My first Python script
 
+#### Tell me a number
+num = int(input("Hello, tell me a number: ")) <br>
+print("Thank you.") <br>
+if num % 2 == 0: <br>
+    print ("That was an even number.") <br>
+else: <br>
+    print("That was an odd number.")
+
+
+#### My first Python script
 name = input("Hello, what is your name? ")
-
 age = input("Hello again, how old are you? ")
-
 age = int(age)
-
 year = str((100-age)+2018) <br>
 print ("\n") <br>
 print ("Hello, " + name + ". You will be 100 years old this time of year in " + year + ".")
