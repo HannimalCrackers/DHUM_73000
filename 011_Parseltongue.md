@@ -1,6 +1,21 @@
 # Adventures in parseltongue
 
-I am determined to learn Python.
+&nbsp;
+
+####My first Python script
+
+name = input("Hello, what is your name? ")
+
+age = input("Hello again, how old are you? ")
+
+age = int(age)
+
+year = str((100-age)+2018)
+print ("\n")
+print ("Hello, " + name + ". You will be 100 years old this time of year in " + year + ".")
+
+
+
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
