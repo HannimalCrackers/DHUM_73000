@@ -10,8 +10,8 @@ age = input("Hello again, how old are you? ")
 
 age = int(age)
 
-year = str((100-age)+2018)
-print ("\n")
+year = str((100-age)+2018) <br>
+print ("\n") <br>
 print ("Hello, " + name + ". You will be 100 years old this time of year in " + year + ".")
 
 
