@@ -6,10 +6,11 @@
 #### Tell me a number
 num = int(input("Hello, tell me a number: ")) <br>
 print("Thank you.") <br>
+
 if num % 2 == 0: <br>
-    print ("That was an even number.") <br>
+    &nbsp;&nbsp; print ("That was an even number.") <br>
 else: <br>
-    print("That was an odd number.")
+    &nbsp;&nbsp; print("That was an odd number.")
 
 
 #### My first Python script
