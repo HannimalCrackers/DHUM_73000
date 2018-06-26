@@ -26,7 +26,7 @@ print ("Hello, " + name + ". You will be 100 years old this time of year in " + 
 
 &nbsp; &nbsp; &nbsp; &nbsp;
 
-Markdown is interacting with my copy/paste Python from Terminal. Having to manually insert input line breaks. Some may be missing.
+Markdown is interacting with my copy/paste Python from Terminal. Having to manually insert indents and line breaks. Some may be missing. This is really not the best format for this material.
 
 &nbsp; &nbsp;
 
