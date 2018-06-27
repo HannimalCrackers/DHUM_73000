@@ -3,14 +3,32 @@
 &nbsp;
 
 
+#### Polite math bot continues
+
+num = int(input("Hello, let's do some division. Please tell me a number. ")) <br>
+print("Thank you for the number", num, ".") <br>
+
+check = int(input("Hello, what number would you like me to divide that by? ")) <br>
+print("Thank you. You'd like me to divide", num, "by", check, ".") <br>
+
+if num % check == 0: <br>
+    &nbsp; &nbsp; ans = num/check <br>
+    &nbsp; &nbsp; print ("\n") <br>
+    &nbsp; &nbsp; print (num, "divided by", check, "is", int(ans), ". ") <br>
+else: <br>
+    &nbsp; &nbsp; print ("\n") <br>
+    &nbsp; &nbsp; print("I'm sorry. That's too hard.") <br>
+
+
+
 #### Tell me a number
 num = int(input("Hello, tell me a number: ")) <br>
 print("Thank you.") <br>
 
 if num % 2 == 0: <br>
-    &nbsp;&nbsp; print ("That was an even number.") <br>
+    &nbsp; &nbsp; print ("That was an even number.") <br>
 else: <br>
-    &nbsp;&nbsp; print("That was an odd number.")
+    &nbsp; &nbsp; print("That was an odd number.")
 
 
 #### My first Python script
