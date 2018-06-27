@@ -3,7 +3,7 @@
 &nbsp;
 
 
-#### Polite math bot continues
+#### Polite math bot
 
 num = int(input("Hello, let's do some division. Please tell me a number. ")) <br>
 print("Thank you for the number", num, ".") <br>
@@ -19,7 +19,8 @@ else: <br>
     &nbsp; &nbsp; print ("\n") <br>
     &nbsp; &nbsp; print("I'm sorry. That's too hard.") <br>
 
-
+&nbsp;
+&nbsp;
 
 #### Tell me a number
 num = int(input("Hello, tell me a number: ")) <br>
@@ -30,6 +31,8 @@ if num % 2 == 0: <br>
 else: <br>
     &nbsp; &nbsp; print("That was an odd number.")
 
+&nbsp;
+&nbsp;
 
 #### My first Python script
 name = input("Hello, what is your name? ") <br>
