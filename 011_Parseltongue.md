@@ -8,7 +8,7 @@
 
 
 #### Terminal 
-Pro: outputs only the info I want to see <br>
+Pro: outputs only the info I want to see. I feel like I'm in the Matrix and/or 1997 <br>
 Con: can't edit inline <br>
 
 #### Spyder
