@@ -24,21 +24,21 @@ Pro: I like it for editing HTML and CSS at work <br>
 Con: Very annoying time counter with every output. I tried to customize to quiet build environment but I didn't work. I guess I did it wrong.
 
 #### BBEdit
-Pro: Easier to read output (though still annoying extra stuff present)
+Pro: Easier to read output (though still annoying extra stuff present) <br>
 Con: Maybe doesn't accept input. Getting error: EOFError: EOF when reading a line
 
 #### Visual Studio Code
-Pro: Looks like it would be useful if I had any idea what I was doing
+Pro: Looks like it would be useful if I had any idea what I was doing <br>
 Con: I don't have any idea, and I need something that is simpler to understand and get using
 
 #### Brackets
-Pro: Again, looks like it would be handy if I wasn't so noo
+Pro: Again, looks like it would be handy if I wasn't so noo <br>
 Con: Needs other things loaded or added in order to accept inputs
 
 #### PyCharm CE
-The version I downloaded is free and has a good rep. About to test it out. Maybe 7th time's the (py)charm!
+The version I downloaded is free and has a good rep. About to test it out. Maybe 7th time's the (py)charm! <br>
 
-Pro: 
+Pro:  <br>
 Con: 
 
 
