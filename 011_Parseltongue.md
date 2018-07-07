@@ -38,8 +38,10 @@ Con: Needs other things loaded or added in order to accept inputs
 #### PyCharm CE
 The version I downloaded is free and has a good rep. About to test it out. Maybe 7th time's the (py)charm! <br>
 
-Pro:  <br>
-Con: 
+Pro: "Run" is a clearly displayed option in the menu toolbar. Easy to find! <br>
+Con: SIGH. Extraneous output. When everything runs correctly still get "Process finished with exit code 0" message. It's annoying, but it seems like I can't escape this output quirk. 
+
+Will keep using PyCharm for now.
 
 
 &nbsp;
