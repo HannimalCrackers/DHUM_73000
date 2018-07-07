@@ -8,19 +8,19 @@
 
 
 #### Terminal 
-Pro: outputs only the info I want to see
-Con: can't edit inline
+Pro: outputs only the info I want to see <br>
+Con: can't edit inline <br>
 
 #### Spyder
-Pro: seems cool
-Cons: not launching in my Python 2.7 env for some reason. Also, the runfile paths printing doubled up in the console at every single run makes it hard to read output
+Pro: seems cool <br>
+Cons: not launching in my Python 2.7 env for some reason. Also, the runfile paths printing doubled up in the console at every single run makes it hard to read output <br>
 
 Example: print (2+5) <br>
 yields: runfile('/Users/hhouse/.spyder-py3/temp.py', wdir='/Users/hhouse/.spyder-py3')
-7
+7 <br>
 
 #### Sublime Text
-Pro: I like it for editing HTML and CSS at work
+Pro: I like it for editing HTML and CSS at work <br>
 Con: Very annoying time counter with every output. I tried to customize to quiet build environment but I didn't work. I guess I did it wrong.
 
 #### BBEdit
